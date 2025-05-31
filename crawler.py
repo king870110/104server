@@ -1,18 +1,23 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
+print(SUPABASE_KEY)
+print(SUPABASE_URL)
+
 
 def fetch_jobs():
     print("[+] 正在抓取 104 職缺資料")
-    url = "https://www.104.com.tw/company/search/?jobsource=index_cmp_3&sw=2"
+    url = "https://www.104.com.tw/company/search/?jobsource=index_cmp_3&sw=2&zone=16"
     res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(res.text, "html.parser")
 
