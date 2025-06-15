@@ -1,9 +1,7 @@
-# supabase_api.py
 import os
 from dotenv import load_dotenv
 import requests
 from datetime import datetime
-import supabase
 
 load_dotenv()
 SUPABASE_URL = os.getenv("SUPABASE_URL")
@@ -14,22 +12,33 @@ headers = {
     "apikey": SUPABASE_KEY,
     "Authorization": f"Bearer {SUPABASE_KEY}",
     "Content-Type": "application/json",
+    "Prefer": "resolution=merge-duplicates",  # 告訴 supabase 做 upsert
 }
-
-
-def upload_jobs(jobs):
-    for job in jobs:
-        supabase.table("job_posts").upsert(job, on_conflict=["job_id"]).execute()
 
 
 def upsert_jobs(jobs):
     url = f"{SUPABASE_URL}/rest/v1/{TABLE}"
+
     for job in jobs:
         job_data = job.copy()
-        job_data["created_at"] = datetime.now().isoformat()
-        requests.post(url, headers=headers, json=job_data)
 
+        if "job_id" not in job_data:
+            print("Error: job data missing 'job_id' key, skip")
+            continue
 
-def close_missing_jobs(current_jobs):
-    # 這邊你可以從 Supabase 撈全部 open 狀態的職缺，比對 current_jobs 不在其中的標記 closed_at
-    pass
+        # 如果資料已有 post_at，不要送入 post_at 讓它不被覆寫
+        if "post_at" not in job_data or not job_data["post_at"]:
+            job_data["posted_at"] = datetime.now().isoformat()
+
+        params = {"on_conflict": "job_id"}
+
+        try:
+            res = requests.post(url, headers=headers, json=job_data, params=params)
+            if res.status_code in (200, 201):
+                print(f"Upsert job {job_data['job_id']} 成功")
+            else:
+                print(
+                    f"Upsert job {job_data['job_id']} 失敗: {res.status_code} {res.text}"
+                )
+        except Exception as e:
+            print(f"Exception when upserting job {job_data['job_id']}: {e}")
