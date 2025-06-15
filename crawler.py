@@ -7,9 +7,8 @@ import time
 from datetime import datetime
 
 
-def crawl_jobs(zone="16", indcat="1,2", max_pages=50):
+def crawl_jobs(zone="16", indcat="1,2", max_pages=200):
     options = Options()
-    # options.add_argument("--headless")  # 先開瀏覽器視窗除錯用
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument("--window-size=1920,1080")
@@ -17,7 +16,7 @@ def crawl_jobs(zone="16", indcat="1,2", max_pages=50):
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
     )
 
-    options.add_argument("--headless")  # 啟動無頭模式
+    options.add_argument("--headless")  # 啟動無頭模式，不顯示瀏覽器
 
     driver = webdriver.Chrome(options=options)
     jobs = []
@@ -86,7 +85,7 @@ def crawl_jobs(zone="16", indcat="1,2", max_pages=50):
 
 def parse_date(date_str):
     year = datetime.now().year
-    print(date_str)
+    # print(date_str)
     try:
         # 假設 date_str 是 "6/15"
         if "/" in date_str and len(date_str.split("/")) == 2:

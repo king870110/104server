@@ -27,7 +27,7 @@ def upsert_jobs(jobs):
             continue
 
         # 如果資料已有 post_at，不要送入 post_at 讓它不被覆寫
-        if "post_at" not in job_data or not job_data["post_at"]:
+        if "posted_at" not in job_data or not job_data["posted_at"]:
             job_data["posted_at"] = datetime.now().isoformat()
 
         params = {"on_conflict": "job_id"}

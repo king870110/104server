@@ -2,7 +2,7 @@ name: Daily Crawler
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 台灣時間早上 8 點（UTC+0）
+    - cron: "0 0 * * *" # UTC 凌晨 0 點，台灣時間應該是早上 8 點 (UTC+8)
   workflow_dispatch:
 
 jobs:
@@ -21,9 +21,15 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run crawler
-        run: python crawler.py
+        run: python sync104_jobs.py
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          CRAWLER_URL: ${{secrets.CRAWLER_URL}}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_TOPICS_OTHER=${{secrets.TELEGRAM_TOPICS_OTHER}}
+          TELEGRAM_TOPICS_ERROR=${{secrets.TELEGRAM_TOPICS_ERROR}}
+          TELEGRAM_TOPICS_SHOPEE=${{secrets.TELEGRAM_TOPICS_SHOPEE}}
+          TELEGRAM_TOPICS_SHINYWEB=${{secrets.TELEGRAM_TOPICS_SHINYWEB}}
+          TELEGRAM_TOPICS_YAHOO=${{secrets.TELEGRAM_TOPICS_YAHOO}}

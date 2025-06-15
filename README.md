@@ -11,10 +11,8 @@
 
 104-sync/
 ├── sync104_jobs.py ← 主程式，每天跑一次
-├── last_sync.json ← 記錄上次同步日期
 ├── supabase_client.py ← 初始化連線
 ├── crawler.py ← 負責爬 104 職缺
-├── jobs.json ← 暫存職缺資料（可選）
 └── requirements.txt
 
 ## 系統機制
@@ -24,11 +22,7 @@
 |   crawler.py       |  --->   | jobs.json       |  --->  | supabase_client.py   |
 | (爭取職置)       |         | (資料列表) |        | (上傳到 DB)        |
 +--------------------+         +-----------------+        +----------------------+
-         |
-         v
-+------------------+
-| sync104_jobs.py  | <----> last_sync.json (紀錄是否同步)
-+------------------+
+
 ```
 
 ## 文件說明
@@ -36,13 +30,11 @@
 ### `sync104_jobs.py`
 
 - 主程式
-- 根據 `last_sync.json` 判斷是否今天已經同步
 - 執行下列流程:
 
   - 呼叫 `crawler.py` 爭取職置資料
   - 存成 `jobs.json`
   - 讀取 `jobs.json` 中資料帶入 Supabase
-  - 更新 `last_sync.json`
 
 ### `crawler.py`
 
@@ -75,17 +67,6 @@
 | posted_date | date      | 上架日期 |
 | url         | text      | 104 URL  |
 | updated_at  | timestamp | 自動生成 |
-
-### `last_sync.json`
-
-```json
-{
-	"lastSync": "2025-06-14"
-}
-```
-
-- 用來判斷今天是否已同步
-- 如果不是今天，則執行爭取 + 更新
 
 ## 執行方式
 
