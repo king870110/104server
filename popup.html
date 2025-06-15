@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>104 同步</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 10px;
+            width: 200px;
+        }
+
+        button {
+            padding: 8px;
+            width: 100%;
+        }
+
+        #status {
+            margin-top: 10px;
+            font-size: 13px;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+    <button id="syncBtn">立即同步</button>
+    <div id="status"></div>
+
+    <script>
+        document.getElementById("syncBtn").addEventListener("click", () => {
+            document.getElementById("status").textContent = "同步中...";
+            fetch("http://localhost:8080/api/jobs")
+                .then(res => res.json())
+                .then(jobs => {
+                    const map = {};
+                    for (const job of jobs) {
+                        map[job.job_id] = job;
+                    }
+                    localStorage.setItem("jobMap", JSON.stringify(map));
+                    document.getElementById("status").textContent = `完成！同步 ${jobs.length} 筆。`;
+                })
+                .catch(err => {
+                    document.getElementById("status").textContent = "同步失敗：" + err.message;
+                });
+        });
+    </script>
+</body>
+
+</html>
