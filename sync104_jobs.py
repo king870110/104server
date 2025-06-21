@@ -1,5 +1,5 @@
 from crawler import crawl_jobs
-from supabase_client import upsert_jobs
+from supabase_client import upsert_jobs, export_json
 import json
 import os
 from datetime import datetime
@@ -27,9 +27,13 @@ def main():
 
     jobs = crawl_jobs()
     if jobs:
-        upsert_jobs(jobs)
-        mark_synced_today()
-        print(f"同步 {len(jobs)} 筆職缺完成")
+        try:
+            upsert_jobs(jobs)
+            export_json()
+            mark_synced_today()
+            print(f"同步 {len(jobs)} 筆職缺完成")
+        except Exception as e:
+            print(f"同步失敗: {e}")
     else:
         print("未抓到職缺")
 
