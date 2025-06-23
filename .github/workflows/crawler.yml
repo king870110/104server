@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # UTC 凌晨 0 點，台灣時間應該是早上 8 點 (UTC+8)
   workflow_dispatch:
 
+permissions:
+  contents: write # <--- 這行很重要，讓 bot 有權限 push 回 repo
+
 jobs:
   run-crawler:
     runs-on: ubuntu-latest
@@ -33,3 +36,10 @@ jobs:
           TELEGRAM_TOPICS_SHOPEE: ${{secrets.TELEGRAM_TOPICS_SHOPEE}}
           TELEGRAM_TOPICS_SHINYWEB: ${{secrets.TELEGRAM_TOPICS_SHINYWEB}}
           TELEGRAM_TOPICS_YAHOO: ${{secrets.TELEGRAM_TOPICS_YAHOO}}
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/jobs.json
+          git commit -m "chore: update jobs.json"
+          git push
