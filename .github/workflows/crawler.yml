@@ -2,7 +2,9 @@ name: Daily Crawler
 
 on:
   schedule:
-    - cron: "0 0 * * *" # UTC 凌晨 0 點，台灣時間應該是早上 8 點 (UTC+8)
+    - cron: "0 0 * * *" # 台灣時間 8:00
+    - cron: "0 4 * * *" # 台灣時間 12:00
+    - cron: "0 7 * * *" # 台灣時間 15:00
   workflow_dispatch:
 
 permissions:
