@@ -86,7 +86,7 @@ def export_json():
     response = (
         supabase.table("jobs")
         .select("*")
-        .gte("posted_at", start_time.isoformat())
+        .gte("created_at", start_time.isoformat())
         .execute()
     )
     data = response.data
