@@ -65,10 +65,16 @@ def upsert_jobs(jobs):
         try:
             res = supabase.table(TABLE).upsert(job_data, on_conflict="job_id").execute()
 
-            if getattr(res, "error", None):  # v2.x 檢查 error
-                print(f"⚠️ Upsert job {job_data['job_id']} 失敗: {res.error}")
+            if res.status_code in (200, 201):
+                print(f"✅ Upsert job {job_data['job_id']} 成功")
             else:
-                print(f"✅ Upsert job {job_data['job_id']} 成功: {res.data}")
+                print(
+                    f"⚠️ Upsert job {job_data['job_id']} 失敗: {res.status_code} {res.data}"
+                )
+            # if getattr(res, "error", None):  # v2.x 檢查 error
+            #     print(f"⚠️ Upsert job {job_data['job_id']} 失敗: {res.error}")
+            # else:
+            #     print(f"✅ Upsert job {job_data['job_id']} 成功: {res.data}")
 
         except Exception as e:
             print(f"🔥 Exception upserting job {job_data['job_id']}: {e}")
