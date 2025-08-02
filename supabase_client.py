@@ -65,12 +65,10 @@ def upsert_jobs(jobs):
         try:
             res = supabase.table(TABLE).upsert(job_data, on_conflict="job_id").execute()
 
-            if res.status_code in (200, 201):
-                print(f"✅ Upsert job {job_data['job_id']} 成功")
+            if getattr(res, "error", None):  # v2.x 檢查 error
+                print(f"⚠️ Upsert job {job_data['job_id']} 失敗: {res.error}")
             else:
-                print(
-                    f"⚠️ Upsert job {job_data['job_id']} 失敗: {res.status_code} {res.data}"
-                )
+                print(f"✅ Upsert job {job_data['job_id']} 成功: {res.data}")
 
         except Exception as e:
             print(f"🔥 Exception upserting job {job_data['job_id']}: {e}")
@@ -81,12 +79,14 @@ def export_json():
     import json
 
     today = datetime.now()
-    start_time = today - timedelta(days=30)
-
+    start_time = (today - timedelta(days=30)).strftime(
+        "%Y-%m-%d %H:%M:%S"
+    )  # 不要 isoformat 帶時區
+    print({start_time})
     response = (
         supabase.table("jobs")
         .select("*")
-        .gte("created_at", start_time.isoformat())
+        .gte("created_at", start_time)  # created_at >= start_time
         .execute()
     )
     data = response.data
