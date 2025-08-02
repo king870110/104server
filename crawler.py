@@ -7,7 +7,7 @@ import time
 from datetime import datetime
 
 
-def crawl_jobs(zone="16", indcat="1,2", max_pages=150):
+def crawl_jobs(zone="16", indcat="1,2", max_pages=1):
     options = Options()
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
