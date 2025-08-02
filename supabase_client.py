@@ -79,18 +79,43 @@ def export_json():
     import json
 
     today = datetime.now()
-    start_time = (today - timedelta(days=30)).strftime(
-        "%Y-%m-%d %H:%M:%S"
-    )  # 不要 isoformat 帶時區
-    print({start_time})
-    response = (
-        supabase.table("jobs")
-        .select("*")
-        .gte("created_at", start_time)  # created_at >= start_time
-        .execute()
-    )
-    data = response.data
-    print(data)
+    start_time = (today - timedelta(days=30)).strftime("%Y-%m-%d %H:%M:%S")
+    print("開始時間:", start_time)
 
-    with open("public/jobs.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    batch_size = 1000
+    start = 0
+    all_data = []
+
+    while True:
+        response = (
+            supabase.table("jobs")
+            .select("*")
+            .gte("created_at", start_time)
+            .range(start, start + batch_size - 1)
+            .execute()
+        )
+
+        if hasattr(response, "error") and response.error:
+            print("查詢錯誤:", response.error)
+            break
+
+        batch = response.data
+        if not batch:
+            break
+
+        all_data.extend(batch)
+        print(f"已抓取 {len(all_data)} 筆資料")
+
+        if len(batch) < batch_size:
+            # 最後一批，結束迴圈
+            break
+
+        start += batch_size
+
+    if all_data:
+        os.makedirs("public", exist_ok=True)
+        with open("public/jobs.json", "w", encoding="utf-8") as f:
+            json.dump(all_data, f, ensure_ascii=False, indent=2)
+        print(f"✅ 成功匯出 {len(all_data)} 筆資料到 public/jobs.json")
+    else:
+        print("沒有資料可匯出")
