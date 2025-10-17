@@ -1,16 +1,5 @@
 [
   {
-    "id": 1185853,
-    "company": "光隆實業股份有限公司",
-    "job_title": "網管主管",
-    "location": "台北市大安區",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-17T01:10:10.438578",
-    "last_seen_at": "2025-10-16T07:20:20.877404",
-    "job_id": "8ttcd",
-    "url": "https://www.104.com.tw/job/8ttcd?jobsource=joblist_search"
-  },
-  {
     "id": 1194373,
     "company": "達方電子股份有限公司",
     "job_title": "被動元件PM",
@@ -81,9 +70,9 @@
     "company": "山隆通運股份有限公司",
     "job_title": "貨櫃調度員",
     "location": "台中市梧棲區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-19T01:18:03.961685",
-    "last_seen_at": "2025-10-12T07:22:27.079714",
+    "last_seen_at": "2025-10-17T01:02:39.553376",
     "job_id": "8twwk",
     "url": "https://www.104.com.tw/job/8twwk?jobsource=joblist_search"
   },
@@ -114,9 +103,9 @@
     "company": "豐泰企業股份有限公司",
     "job_title": "資材人員",
     "location": "雲林縣斗六市",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-22T04:39:52.847733",
-    "last_seen_at": "2025-10-12T07:24:52.230293",
+    "last_seen_at": "2025-10-17T01:09:11.219933",
     "job_id": "7qffx",
     "url": "https://www.104.com.tw/job/7qffx?jobsource=joblist_search"
   },
@@ -204,7 +193,7 @@
     "location": "台北市大安區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-01T01:18:33.831961",
-    "last_seen_at": "2025-10-16T07:20:01.397257",
+    "last_seen_at": "2025-10-17T01:08:25.31894",
     "job_id": "8u9w6",
     "url": "https://www.104.com.tw/job/8u9w6?jobsource=joblist_search"
   },
@@ -358,383 +347,9 @@
     "location": "台中市南屯區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:17:18.908984",
-    "last_seen_at": "2025-10-16T07:24:53.084259",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
     "job_id": "8ktiu",
     "url": "https://www.104.com.tw/job/8ktiu?jobsource=joblist_search"
-  },
-  {
-    "id": 1185979,
-    "company": "科風股份有限公司",
-    "job_title": "成本會計專員",
-    "location": "新北市中和區",
-    "posted_at": "2025-10-07T00:00:00",
-    "created_at": "2025-09-17T01:10:33.131073",
-    "last_seen_at": "2025-10-07T07:30:08.284857",
-    "job_id": "8balo",
-    "url": "https://www.104.com.tw/job/8balo?jobsource=joblist_search"
-  },
-  {
-    "id": 1186111,
-    "company": "中華電信關係企業_神腦國際企業股份有限公司",
-    "job_title": "(資深)資安主管",
-    "location": "新北市新店區",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:10:53.220761",
-    "last_seen_at": "2025-10-08T07:29:41.063476",
-    "job_id": "84e1o",
-    "url": "https://www.104.com.tw/job/84e1o?jobsource=joblist_search"
-  },
-  {
-    "id": 1186135,
-    "company": "健喬信元醫藥生技股份有限公司",
-    "job_title": "固定早班 醫藥生技食品廠 包裝員(8小時)★★★工作生活平衡~週休六日，享免費供膳及免費停車位",
-    "location": "新竹縣湖口鄉",
-    "posted_at": "2025-10-01T00:00:00",
-    "created_at": "2025-09-17T01:10:56.816912",
-    "last_seen_at": "2025-10-02T01:07:23.626731",
-    "job_id": "8tts2",
-    "url": "https://www.104.com.tw/job/8tts2?jobsource=joblist_search"
-  },
-  {
-    "id": 1186139,
-    "company": "健喬信元醫藥生技股份有限公司",
-    "job_title": "常日班 物流中心_倉管員 ★工作生活平衡~週休二日，享免費供膳及免費停車位★",
-    "location": "新竹縣湖口鄉",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:10:57.421856",
-    "last_seen_at": "2025-10-15T07:21:06.810629",
-    "job_id": "8ttx3",
-    "url": "https://www.104.com.tw/job/8ttx3?jobsource=joblist_search"
-  },
-  {
-    "id": 1186527,
-    "company": "燿華電子股份有限公司",
-    "job_title": "AI工程師 (語言模型/預測模型/影像辨識/數據分析)",
-    "location": "新北市土城區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:11:58.802877",
-    "last_seen_at": "2025-10-15T07:30:02.217112",
-    "job_id": "8ttm4",
-    "url": "https://www.104.com.tw/job/8ttm4?jobsource=joblist_search"
-  },
-  {
-    "id": 1186349,
-    "company": "國巨股份有限公司",
-    "job_title": "(Taipei) 業務助理",
-    "location": "新北市新店區",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-17T01:11:31.039349",
-    "last_seen_at": "2025-10-16T07:20:43.422995",
-    "job_id": "8td01",
-    "url": "https://www.104.com.tw/job/8td01?jobsource=joblist_search"
-  },
-  {
-    "id": 1186367,
-    "company": "健喬信元醫藥生技股份有限公司",
-    "job_title": "SY11408_營運行政資深經理",
-    "location": "台北市內湖區",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:11:33.780778",
-    "last_seen_at": "2025-10-08T07:24:12.490912",
-    "job_id": "8t4ve",
-    "url": "https://www.104.com.tw/job/8t4ve?jobsource=joblist_search"
-  },
-  {
-    "id": 1186931,
-    "company": "統一綜合證券股份有限公司",
-    "job_title": "竹南分公司工讀生",
-    "location": "苗栗縣竹南鎮",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:13:00.570579",
-    "last_seen_at": "2025-10-08T07:22:20.884113",
-    "job_id": "8u0tf",
-    "url": "https://www.104.com.tw/job/8u0tf?jobsource=joblist_search"
-  },
-  {
-    "id": 1186779,
-    "company": "榮成紙業股份有限公司",
-    "job_title": "龍潭-貨車助手",
-    "location": "桃園市龍潭區",
-    "posted_at": "2025-10-13T00:00:00",
-    "created_at": "2025-09-17T01:12:36.934341",
-    "last_seen_at": "2025-10-13T07:27:12.759075",
-    "job_id": "7dp1g",
-    "url": "https://www.104.com.tw/job/7dp1g?jobsource=joblist_search"
-  },
-  {
-    "id": 1186877,
-    "company": "華城電機股份有限公司",
-    "job_title": "(台北)會計管理師",
-    "location": "台北市大安區",
-    "posted_at": "2025-09-17T00:00:00",
-    "created_at": "2025-09-17T01:12:52.157736",
-    "last_seen_at": "2025-09-17T07:23:19.174617",
-    "job_id": "805ov",
-    "url": "https://www.104.com.tw/job/805ov?jobsource=joblist_search"
-  },
-  {
-    "id": 1186927,
-    "company": "緯創資通股份有限公司",
-    "job_title": "品保技術主任/技術副理_竹北_06438",
-    "location": "新竹縣竹北市",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:12:59.952178",
-    "last_seen_at": "2025-10-08T01:06:02.280001",
-    "job_id": "8u0uj",
-    "url": "https://www.104.com.tw/job/8u0uj?jobsource=joblist_search"
-  },
-  {
-    "id": 1186981,
-    "company": "華城電機股份有限公司",
-    "job_title": "材料研究工程師(中壢廠)",
-    "location": "桃園市中壢區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:13:08.357104",
-    "last_seen_at": "2025-10-15T01:07:24.483513",
-    "job_id": "8ttm9",
-    "url": "https://www.104.com.tw/job/8ttm9?jobsource=joblist_search"
-  },
-  {
-    "id": 1186933,
-    "company": "台虹科技股份有限公司",
-    "job_title": "114-081 研發中心研究員",
-    "location": "高雄市前鎮區",
-    "posted_at": "2025-10-14T00:00:00",
-    "created_at": "2025-09-17T01:13:00.896338",
-    "last_seen_at": "2025-10-14T07:24:23.076854",
-    "job_id": "85iov",
-    "url": "https://www.104.com.tw/job/85iov?jobsource=joblist_search"
-  },
-  {
-    "id": 1186935,
-    "company": "台灣福興工業股份有限公司",
-    "job_title": "零件開發助理工程師",
-    "location": "高雄市岡山區",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-17T01:13:01.217858",
-    "last_seen_at": "2025-10-16T04:38:52.966795",
-    "job_id": "8u0t7",
-    "url": "https://www.104.com.tw/job/8u0t7?jobsource=joblist_search"
-  },
-  {
-    "id": 1189785,
-    "company": "燦坤實業股份有限公司",
-    "job_title": "門市-文賢店(台南市北區)服務專員",
-    "location": "台南市北區",
-    "posted_at": "2025-09-24T00:00:00",
-    "created_at": "2025-09-17T01:20:15.290436",
-    "last_seen_at": "2025-09-24T07:25:03.327816",
-    "job_id": "74ryx",
-    "url": "https://www.104.com.tw/job/74ryx?jobsource=joblist_search"
-  },
-  {
-    "id": 1187051,
-    "company": "榮成紙業股份有限公司",
-    "job_title": "龍潭-儲備大貨車司機",
-    "location": "桃園市龍潭區",
-    "posted_at": "2025-10-13T00:00:00",
-    "created_at": "2025-09-17T01:13:19.015017",
-    "last_seen_at": "2025-10-13T07:29:18.442021",
-    "job_id": "76uvz",
-    "url": "https://www.104.com.tw/job/76uvz?jobsource=joblist_search"
-  },
-  {
-    "id": 1187247,
-    "company": "豐興鋼鐵股份有限公司",
-    "job_title": "AI專案工程師 [豐興鋼鐵關係企業-豐力互聯]",
-    "location": "台中市后里區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:13:48.795632",
-    "last_seen_at": "2025-10-15T07:31:46.519838",
-    "job_id": "84dnp",
-    "url": "https://www.104.com.tw/job/84dnp?jobsource=joblist_search"
-  },
-  {
-    "id": 1187255,
-    "company": "友達光電股份有限公司",
-    "job_title": "【2026預聘暨研發替代役】Automotive CI/CD Engineer(新鮮人限定)-新竹廠-R33",
-    "location": "新竹市",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:13:50.015585",
-    "last_seen_at": "2025-10-08T01:05:22.273542",
-    "job_id": "8n1wf",
-    "url": "https://www.104.com.tw/job/8n1wf?jobsource=joblist_search"
-  },
-  {
-    "id": 1187437,
-    "company": "緯創資通股份有限公司",
-    "job_title": "Server Hardware Engineer_美國_06411",
-    "location": "美國加利佛尼亞州",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:14:17.076725",
-    "last_seen_at": "2025-10-08T01:05:26.587403",
-    "job_id": "8tu0m",
-    "url": "https://www.104.com.tw/job/8tu0m?jobsource=joblist_search"
-  },
-  {
-    "id": 1187605,
-    "company": "健身工廠_柏文健康事業股份有限公司",
-    "job_title": "庫存管理專員",
-    "location": "高雄市左營區",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:14:42.574485",
-    "last_seen_at": "2025-10-08T01:05:22.273542",
-    "job_id": "8ttsd",
-    "url": "https://www.104.com.tw/job/8ttsd?jobsource=joblist_search"
-  },
-  {
-    "id": 1187923,
-    "company": "百容電子股份有限公司",
-    "job_title": "國外行銷業務人員(日文)",
-    "location": "台中市南屯區",
-    "posted_at": "2025-09-26T00:00:00",
-    "created_at": "2025-09-17T01:15:30.96497",
-    "last_seen_at": "2025-09-26T04:39:14.594884",
-    "job_id": "3oaft",
-    "url": "https://www.104.com.tw/job/3oaft?jobsource=joblist_search"
-  },
-  {
-    "id": 1187661,
-    "company": "友達光電股份有限公司",
-    "job_title": "【2026預聘暨研發替代役】智慧座艙GUI軟體工程師(新鮮人限定)-台北辦公室-R33",
-    "location": "台北市南港區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:14:51.034936",
-    "last_seen_at": "2025-10-15T07:29:25.082786",
-    "job_id": "8n1vr",
-    "url": "https://www.104.com.tw/job/8n1vr?jobsource=joblist_search"
-  },
-  {
-    "id": 1188307,
-    "company": "燿華電子股份有限公司",
-    "job_title": "AI系統分析師 (訪談與規劃 LLM/影像辨識/分析預測模型等應用需求)",
-    "location": "新北市土城區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:16:27.837128",
-    "last_seen_at": "2025-10-15T01:08:47.596702",
-    "job_id": "8ttqm",
-    "url": "https://www.104.com.tw/job/8ttqm?jobsource=joblist_search"
-  },
-  {
-    "id": 1188919,
-    "company": "華城電機股份有限公司",
-    "job_title": "電力電子工程師(中壢廠-研發中心)",
-    "location": "桃園市中壢區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:18:01.651802",
-    "last_seen_at": "2025-10-15T01:08:24.949268",
-    "job_id": "8qmj1",
-    "url": "https://www.104.com.tw/job/8qmj1?jobsource=joblist_search"
-  },
-  {
-    "id": 1189299,
-    "company": "燿華電子股份有限公司",
-    "job_title": "AI前端工程師 (開發LLM/影像辨識/分析預測模型前端應用)",
-    "location": "新北市土城區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:19:00.333067",
-    "last_seen_at": "2025-10-15T01:09:15.574078",
-    "job_id": "8tu0r",
-    "url": "https://www.104.com.tw/job/8tu0r?jobsource=joblist_search"
-  },
-  {
-    "id": 1189711,
-    "company": "鴻準精密工業股份有限公司",
-    "job_title": "Corporate Controller (USA)",
-    "location": "美國肯塔基州",
-    "posted_at": "2025-09-17T00:00:00",
-    "created_at": "2025-09-17T01:20:03.741425",
-    "last_seen_at": "2025-09-17T01:06:03.175511",
-    "job_id": "8td4m",
-    "url": "https://www.104.com.tw/job/8td4m?jobsource=joblist_search"
-  },
-  {
-    "id": 1186305,
-    "company": "(台泥)臺灣水泥股份有限公司",
-    "job_title": "【高雄廠】環安管理師",
-    "location": "高雄市仁武區",
-    "posted_at": "2025-10-15T00:00:00",
-    "created_at": "2025-09-17T01:11:24.193397",
-    "last_seen_at": "2025-10-15T07:22:27.41344",
-    "job_id": "8ednq",
-    "url": "https://www.104.com.tw/job/8ednq?jobsource=joblist_search"
-  },
-  {
-    "id": 1189971,
-    "company": "宏遠證券股份有限公司",
-    "job_title": "行銷美編企劃專員",
-    "location": "台北市大安區",
-    "posted_at": "2025-09-17T00:00:00",
-    "created_at": "2025-09-17T01:20:43.939429",
-    "last_seen_at": "2025-09-17T01:06:30.500677",
-    "job_id": "7plqi",
-    "url": "https://www.104.com.tw/job/7plqi?jobsource=joblist_search"
-  },
-  {
-    "id": 1190541,
-    "company": "燦坤實業股份有限公司",
-    "job_title": "物流-中區(台中市大雅區)長期倉儲工讀生",
-    "location": "台中市大雅區",
-    "posted_at": "2025-10-13T00:00:00",
-    "created_at": "2025-09-17T01:22:10.716059",
-    "last_seen_at": "2025-10-13T07:28:45.418084",
-    "job_id": "46v1l",
-    "url": "https://www.104.com.tw/job/46v1l?jobsource=joblist_search"
-  },
-  {
-    "id": 1190599,
-    "company": "中興電工機械股份有限公司",
-    "job_title": "【氫能】電子工程師",
-    "location": "桃園市龜山區",
-    "posted_at": "2025-09-17T00:00:00",
-    "created_at": "2025-09-17T01:22:19.083525",
-    "last_seen_at": "2025-09-17T01:07:41.979282",
-    "job_id": "8fjcl",
-    "url": "https://www.104.com.tw/job/8fjcl?jobsource=joblist_search"
-  },
-  {
-    "id": 1190705,
-    "company": "燦坤實業股份有限公司",
-    "job_title": "門市-太平樹孝店(台中太平區)服務專員",
-    "location": "台中市太平區",
-    "posted_at": "2025-10-02T00:00:00",
-    "created_at": "2025-09-17T01:22:34.493291",
-    "last_seen_at": "2025-10-02T04:38:06.397348",
-    "job_id": "3zs0n",
-    "url": "https://www.104.com.tw/job/3zs0n?jobsource=joblist_search"
-  },
-  {
-    "id": 1190795,
-    "company": "夆典科技開發股份有限公司",
-    "job_title": "工程-機電估算工程師",
-    "location": "新北市中和區",
-    "posted_at": "2025-10-13T00:00:00",
-    "created_at": "2025-09-17T01:22:47.519537",
-    "last_seen_at": "2025-10-13T01:14:10.90296",
-    "job_id": "8q9nk",
-    "url": "https://www.104.com.tw/job/8q9nk?jobsource=joblist_search"
-  },
-  {
-    "id": 1190925,
-    "company": "宏遠證券股份有限公司",
-    "job_title": "證券營業員(台南)~免銷售其他金融商品",
-    "location": "台南市中西區",
-    "posted_at": "2025-09-17T00:00:00",
-    "created_at": "2025-09-17T01:23:07.116817",
-    "last_seen_at": "2025-09-17T01:08:17.841333",
-    "job_id": "iwe2",
-    "url": "https://www.104.com.tw/job/iwe2?jobsource=joblist_search"
-  },
-  {
-    "id": 1190971,
-    "company": "山富國際旅行社股份有限公司",
-    "job_title": "【台中分公司】出境團旅 航向世界的幕後推手 - 團控OP (文書處理) (月薪+作業獎金)",
-    "location": "台中市西區",
-    "posted_at": "2025-10-14T00:00:00",
-    "created_at": "2025-09-17T01:23:14.017612",
-    "last_seen_at": "2025-10-15T01:11:47.163398",
-    "job_id": "8u0as",
-    "url": "https://www.104.com.tw/job/8u0as?jobsource=joblist_search"
   },
   {
     "id": 1192165,
@@ -743,53 +358,9 @@
     "location": "高雄市前鎮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-17T04:39:26.208197",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8ttxb",
     "url": "https://www.104.com.tw/job/8ttxb?jobsource=joblist_search"
-  },
-  {
-    "id": 1191453,
-    "company": "臺灣產物保險股份有限公司",
-    "job_title": "內勤行政人員【高雄】",
-    "location": "高雄市新興區",
-    "posted_at": "2025-10-08T00:00:00",
-    "created_at": "2025-09-17T01:24:26.002115",
-    "last_seen_at": "2025-10-08T07:23:23.486674",
-    "job_id": "8ts71",
-    "url": "https://www.104.com.tw/job/8ts71?jobsource=joblist_search"
-  },
-  {
-    "id": 1191591,
-    "company": "明基材料股份有限公司",
-    "job_title": "日班技術員【機能織物】（斗六）*留任獎金最高18000元*",
-    "location": "雲林縣斗六市",
-    "posted_at": "2025-10-14T00:00:00",
-    "created_at": "2025-09-17T01:24:46.444502",
-    "last_seen_at": "2025-10-14T07:30:06.216672",
-    "job_id": "75rz9",
-    "url": "https://www.104.com.tw/job/75rz9?jobsource=joblist_search"
-  },
-  {
-    "id": 1191683,
-    "company": "緯創資通股份有限公司",
-    "job_title": "廠長室專案管理師_湖口_04606",
-    "location": "新竹縣湖口鄉",
-    "posted_at": "2025-10-14T00:00:00",
-    "created_at": "2025-09-17T01:25:00.551052",
-    "last_seen_at": "2025-10-14T07:29:29.66164",
-    "job_id": "8u0nn",
-    "url": "https://www.104.com.tw/job/8u0nn?jobsource=joblist_search"
-  },
-  {
-    "id": 1191765,
-    "company": "遠東百貨股份有限公司",
-    "job_title": "《總公司》專案管理資深人員",
-    "location": "新北市板橋區",
-    "posted_at": "2025-10-14T00:00:00",
-    "created_at": "2025-09-17T01:25:13.270358",
-    "last_seen_at": "2025-10-14T07:28:25.705525",
-    "job_id": "8u0g1",
-    "url": "https://www.104.com.tw/job/8u0g1?jobsource=joblist_search"
   },
   {
     "id": 1191869,
@@ -803,24 +374,13 @@
     "url": "https://www.104.com.tw/job/8lbit?jobsource=joblist_search"
   },
   {
-    "id": 1185899,
-    "company": "健喬信元醫藥生技股份有限公司",
-    "job_title": "時薪220【藥品包裝出貨 可兼職_工作時段：12:30-18:30 】",
-    "location": "新竹縣湖口鄉",
-    "posted_at": "2025-10-14T00:00:00",
-    "created_at": "2025-09-17T01:10:20.387033",
-    "last_seen_at": "2025-10-14T07:20:02.242557",
-    "job_id": "8ttty",
-    "url": "https://www.104.com.tw/job/8ttty?jobsource=joblist_search"
-  },
-  {
     "id": 1192199,
     "company": "潤泰精密材料股份有限公司",
     "job_title": "永續暨董事會秘書",
     "location": "台北市中山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-17T04:39:32.055404",
-    "last_seen_at": "2025-10-16T07:20:16.064856",
+    "last_seen_at": "2025-10-17T01:08:39.091616",
     "job_id": "8s6jl",
     "url": "https://www.104.com.tw/job/8s6jl?jobsource=joblist_search"
   },
@@ -1082,9 +642,9 @@
     "company": "元大金融控股股份有限公司(元大金控) (元大證券) (元大銀行)",
     "job_title": "元大金控秘書處-公司治理人員",
     "location": "台北市大安區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-17T04:45:20.550907",
-    "last_seen_at": "2025-10-12T07:26:34.019443",
+    "last_seen_at": "2025-10-17T01:11:46.492924",
     "job_id": "8u1bc",
     "url": "https://www.104.com.tw/job/8u1bc?jobsource=joblist_search"
   },
@@ -1621,9 +1181,9 @@
     "company": "圓剛科技股份有限公司",
     "job_title": "採購資深專員",
     "location": "新北市中和區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-17T04:45:38.925004",
-    "last_seen_at": "2025-10-03T07:29:31.878124",
+    "last_seen_at": "2025-10-17T01:01:33.757005",
     "job_id": "7njx7",
     "url": "https://www.104.com.tw/job/7njx7?jobsource=joblist_search"
   },
@@ -2294,7 +1854,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T01:10:23.037254",
-    "last_seen_at": "2025-10-16T07:20:52.273687",
+    "last_seen_at": "2025-10-17T01:09:31.325551",
     "job_id": "8tvgt",
     "url": "https://www.104.com.tw/job/8tvgt?jobsource=joblist_search"
   },
@@ -2448,7 +2008,7 @@
     "location": "宜蘭縣冬山鄉",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T01:13:22.573506",
-    "last_seen_at": "2025-10-16T07:23:50.502194",
+    "last_seen_at": "2025-10-17T01:11:13.957628",
     "job_id": "7ozfu",
     "url": "https://www.104.com.tw/job/7ozfu?jobsource=joblist_search"
   },
@@ -3130,7 +2690,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T01:25:26.584839",
-    "last_seen_at": "2025-10-16T07:23:17.300946",
+    "last_seen_at": "2025-10-17T01:10:08.49786",
     "job_id": "6qj3g",
     "url": "https://www.104.com.tw/job/6qj3g?jobsource=joblist_search"
   },
@@ -3289,6 +2849,17 @@
     "url": "https://www.104.com.tw/job/8u2zm?jobsource=joblist_search"
   },
   {
+    "id": 1211607,
+    "company": "一詮精密工業股份有限公司",
+    "job_title": "製造中心協理(高新廠)",
+    "location": "新北市新莊區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-09-18T04:43:24.275753",
+    "last_seen_at": "2025-10-17T01:09:35.965598",
+    "job_id": "7lrlb",
+    "url": "https://www.104.com.tw/job/7lrlb?jobsource=joblist_search"
+  },
+  {
     "id": 1211209,
     "company": "台灣典範半導體股份有限公司",
     "job_title": "工業工程師 (IE工程師) - 歡迎新鮮人參加",
@@ -3344,17 +2915,6 @@
     "url": "https://www.104.com.tw/job/8u2mr?jobsource=joblist_search"
   },
   {
-    "id": 1211591,
-    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
-    "job_title": "製造領班_台灣製造本部(中壢)",
-    "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
-    "created_at": "2025-09-18T04:43:21.701848",
-    "last_seen_at": "2025-10-12T07:27:33.145271",
-    "job_id": "8u2uh",
-    "url": "https://www.104.com.tw/job/8u2uh?jobsource=joblist_search"
-  },
-  {
     "id": 1211613,
     "company": "中華電信關係企業_神腦國際企業股份有限公司",
     "job_title": "高階主管司機(職務代理人)",
@@ -3388,15 +2948,26 @@
     "url": "https://www.104.com.tw/job/7yejw?jobsource=joblist_search"
   },
   {
-    "id": 1211617,
-    "company": "閎康科技股份有限公司",
-    "job_title": "取送件專員(小夜)",
-    "location": "新竹市",
+    "id": 1211603,
+    "company": "安國國際科技股份有限公司(Alcor Micro,Corp.)",
+    "job_title": "《管理》採購專員",
+    "location": "台北市南港區",
     "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-18T04:43:25.979515",
-    "last_seen_at": "2025-10-16T07:21:11.375122",
-    "job_id": "7uzeu",
-    "url": "https://www.104.com.tw/job/7uzeu?jobsource=joblist_search"
+    "created_at": "2025-09-18T04:43:23.644446",
+    "last_seen_at": "2025-10-17T01:12:35.229136",
+    "job_id": "8u2r3",
+    "url": "https://www.104.com.tw/job/8u2r3?jobsource=joblist_search"
+  },
+  {
+    "id": 1211591,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "製造領班_台灣製造本部(中壢)",
+    "location": "桃園市中壢區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-09-18T04:43:21.701848",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
+    "job_id": "8u2uh",
+    "url": "https://www.104.com.tw/job/8u2uh?jobsource=joblist_search"
   },
   {
     "id": 1211619,
@@ -3410,15 +2981,15 @@
     "url": "https://www.104.com.tw/job/86c4g?jobsource=joblist_search"
   },
   {
-    "id": 1211607,
-    "company": "一詮精密工業股份有限公司",
-    "job_title": "製造中心協理(高新廠)",
-    "location": "新北市新莊區",
+    "id": 1211617,
+    "company": "閎康科技股份有限公司",
+    "job_title": "取送件專員(小夜)",
+    "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-18T04:43:24.275753",
-    "last_seen_at": "2025-10-16T07:20:56.787557",
-    "job_id": "7lrlb",
-    "url": "https://www.104.com.tw/job/7lrlb?jobsource=joblist_search"
+    "created_at": "2025-09-18T04:43:25.979515",
+    "last_seen_at": "2025-10-17T01:10:13.048522",
+    "job_id": "7uzeu",
+    "url": "https://www.104.com.tw/job/7uzeu?jobsource=joblist_search"
   },
   {
     "id": 1211281,
@@ -3509,17 +3080,6 @@
     "url": "https://www.104.com.tw/job/8u2n8?jobsource=joblist_search"
   },
   {
-    "id": 1211603,
-    "company": "安國國際科技股份有限公司(Alcor Micro,Corp.)",
-    "job_title": "《管理》採購專員",
-    "location": "台北市南港區",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-18T04:43:23.644446",
-    "last_seen_at": "2025-10-16T07:23:03.664521",
-    "job_id": "8u2r3",
-    "url": "https://www.104.com.tw/job/8u2r3?jobsource=joblist_search"
-  },
-  {
     "id": 1211575,
     "company": "鈺邦科技股份有限公司",
     "job_title": "114030 新進材料副工程師",
@@ -3553,17 +3113,6 @@
     "url": "https://www.104.com.tw/job/8u2m5?jobsource=joblist_search"
   },
   {
-    "id": 1211667,
-    "company": "Advantech_研華股份有限公司",
-    "job_title": "Key Account Sales - 南區業務代表 (ATW, iHealthcare/台中或高雄)_JR202510006",
-    "location": "台中市西區",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-18T04:43:34.081055",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
-    "job_id": "8u2jx",
-    "url": "https://www.104.com.tw/job/8u2jx?jobsource=joblist_search"
-  },
-  {
     "id": 1211649,
     "company": "統一綜合證券股份有限公司",
     "job_title": "資訊系統部AS400系統分析師(RPG)",
@@ -3573,6 +3122,17 @@
     "last_seen_at": "2025-09-18T07:22:00.555077",
     "job_id": "8u2m4",
     "url": "https://www.104.com.tw/job/8u2m4?jobsource=joblist_search"
+  },
+  {
+    "id": 1211653,
+    "company": "緯創資通股份有限公司",
+    "job_title": "Server PM_湖口/竹北_05785",
+    "location": "新竹縣竹北市",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-09-18T04:43:31.728076",
+    "last_seen_at": "2025-10-17T01:09:15.96246",
+    "job_id": "8u2m2",
+    "url": "https://www.104.com.tw/job/8u2m2?jobsource=joblist_search"
   },
   {
     "id": 1212135,
@@ -3608,15 +3168,15 @@
     "url": "https://www.104.com.tw/job/8u2kh?jobsource=joblist_search"
   },
   {
-    "id": 1211653,
-    "company": "緯創資通股份有限公司",
-    "job_title": "Server PM_湖口/竹北_05785",
-    "location": "新竹縣竹北市",
+    "id": 1211675,
+    "company": "振發實業股份有限公司",
+    "job_title": "採購主管",
+    "location": "新北市三重區",
     "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-18T04:43:31.728076",
-    "last_seen_at": "2025-10-16T07:20:43.422995",
-    "job_id": "8u2m2",
-    "url": "https://www.104.com.tw/job/8u2m2?jobsource=joblist_search"
+    "created_at": "2025-09-18T04:43:35.387642",
+    "last_seen_at": "2025-10-17T01:12:35.229136",
+    "job_id": "8u2jj",
+    "url": "https://www.104.com.tw/job/8u2jj?jobsource=joblist_search"
   },
   {
     "id": 1211695,
@@ -3628,17 +3188,6 @@
     "last_seen_at": "2025-09-18T07:22:05.019162",
     "job_id": "863d8",
     "url": "https://www.104.com.tw/job/863d8?jobsource=joblist_search"
-  },
-  {
-    "id": 1211675,
-    "company": "振發實業股份有限公司",
-    "job_title": "採購主管",
-    "location": "新北市三重區",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-18T04:43:35.387642",
-    "last_seen_at": "2025-10-16T07:23:12.718036",
-    "job_id": "8u2jj",
-    "url": "https://www.104.com.tw/job/8u2jj?jobsource=joblist_search"
   },
   {
     "id": 1211657,
@@ -3724,9 +3273,20 @@
     "location": "高雄市三民區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T04:43:34.736222",
-    "last_seen_at": "2025-10-16T07:20:25.741648",
+    "last_seen_at": "2025-10-17T01:09:06.658281",
     "job_id": "8u2js",
     "url": "https://www.104.com.tw/job/8u2js?jobsource=joblist_search"
+  },
+  {
+    "id": 1211667,
+    "company": "Advantech_研華股份有限公司",
+    "job_title": "Key Account Sales - 南區業務代表 (ATW, iHealthcare/台中或高雄)_JR202510006",
+    "location": "台中市西區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-09-18T04:43:34.081055",
+    "last_seen_at": "2025-10-17T01:09:11.219933",
+    "job_id": "8u2jx",
+    "url": "https://www.104.com.tw/job/8u2jx?jobsource=joblist_search"
   },
   {
     "id": 1211659,
@@ -4052,9 +3612,9 @@
     "company": "虎山實業股份有限公司",
     "job_title": "【海外工程人員】",
     "location": "美國賓夕凡尼亞州",
-    "posted_at": "2025-10-02T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T07:34:23.654661",
-    "last_seen_at": "2025-10-03T01:05:21.663989",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "8u3ao",
     "url": "https://www.104.com.tw/job/8u3ao?jobsource=joblist_search"
   },
@@ -4065,7 +3625,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T07:34:23.950976",
-    "last_seen_at": "2025-10-16T07:20:52.273687",
+    "last_seen_at": "2025-10-17T01:09:31.325551",
     "job_id": "8u3am",
     "url": "https://www.104.com.tw/job/8u3am?jobsource=joblist_search"
   },
@@ -4085,9 +3645,9 @@
     "company": "虎山實業股份有限公司",
     "job_title": "【海外業務人員】",
     "location": "美國賓夕凡尼亞州",
-    "posted_at": "2025-10-02T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T07:34:24.567672",
-    "last_seen_at": "2025-10-03T01:05:21.663989",
+    "last_seen_at": "2025-10-17T01:08:48.367021",
     "job_id": "8u3ai",
     "url": "https://www.104.com.tw/job/8u3ai?jobsource=joblist_search"
   },
@@ -4120,7 +3680,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T07:34:25.497821",
-    "last_seen_at": "2025-10-16T07:20:34.400144",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "8u393",
     "url": "https://www.104.com.tw/job/8u393?jobsource=joblist_search"
   },
@@ -4162,9 +3722,9 @@
     "company": "鴻名企業股份有限公司",
     "job_title": "海外派駐-[連接器] 品管經理 (東南亞)",
     "location": "泰國",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T07:34:27.092336",
-    "last_seen_at": "2025-10-12T07:26:43.144628",
+    "last_seen_at": "2025-10-17T01:11:27.923818",
     "job_id": "83az0",
     "url": "https://www.104.com.tw/job/83az0?jobsource=joblist_search"
   },
@@ -4173,9 +3733,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "【總務】總務人員",
     "location": "台北市松山區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-18T07:34:27.458347",
-    "last_seen_at": "2025-10-06T07:25:49.349451",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8u37o",
     "url": "https://www.104.com.tw/job/8u37o?jobsource=joblist_search"
   },
@@ -4239,9 +3799,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "【債券】債券交易人員",
     "location": "台北市松山區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-18T07:34:29.441338",
-    "last_seen_at": "2025-10-05T07:27:03.70765",
+    "last_seen_at": "2025-10-17T01:02:11.486151",
     "job_id": "8u360",
     "url": "https://www.104.com.tw/job/8u360?jobsource=joblist_search"
   },
@@ -4261,9 +3821,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "【債券】交易人員",
     "location": "台北市松山區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-18T07:34:30.049528",
-    "last_seen_at": "2025-10-06T07:30:04.438237",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
     "job_id": "7buxl",
     "url": "https://www.104.com.tw/job/7buxl?jobsource=joblist_search"
   },
@@ -4371,9 +3931,9 @@
     "company": "台翰精密科技股份有限公司",
     "job_title": "【菲律賓】會計課長",
     "location": "東南亞",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-18T07:34:33.864819",
-    "last_seen_at": "2025-10-12T07:21:45.26298",
+    "last_seen_at": "2025-10-17T01:01:42.669194",
     "job_id": "8u328",
     "url": "https://www.104.com.tw/job/8u328?jobsource=joblist_search"
   },
@@ -4415,9 +3975,9 @@
     "company": "富邦金融控股股份有限公司",
     "job_title": "【富邦育樂】悍將棒球隊-業務人員",
     "location": "新北市新莊區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-18T07:34:35.111576",
-    "last_seen_at": "2025-10-12T07:25:16.419666",
+    "last_seen_at": "2025-10-17T01:01:14.393948",
     "job_id": "8u319",
     "url": "https://www.104.com.tw/job/8u319?jobsource=joblist_search"
   },
@@ -4439,7 +3999,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-18T04:43:19.391496",
-    "last_seen_at": "2025-10-16T07:21:25.706269",
+    "last_seen_at": "2025-10-17T01:10:17.627457",
     "job_id": "8mf3j",
     "url": "https://www.104.com.tw/job/8mf3j?jobsource=joblist_search"
   },
@@ -4475,17 +4035,6 @@
     "last_seen_at": "2025-10-13T07:26:30.020108",
     "job_id": "8u3zo",
     "url": "https://www.104.com.tw/job/8u3zo?jobsource=joblist_search"
-  },
-  {
-    "id": 1221995,
-    "company": "山隆通運股份有限公司",
-    "job_title": "貨櫃進出紀錄員",
-    "location": "台中市梧棲區",
-    "posted_at": "2025-10-10T00:00:00",
-    "created_at": "2025-09-19T01:12:30.35429",
-    "last_seen_at": "2025-10-12T07:20:58.449476",
-    "job_id": "8twwn",
-    "url": "https://www.104.com.tw/job/8twwn?jobsource=joblist_search"
   },
   {
     "id": 1222767,
@@ -4532,17 +4081,6 @@
     "url": "https://www.104.com.tw/job/2ii78?jobsource=joblist_search"
   },
   {
-    "id": 1222021,
-    "company": "毅嘉科技股份有限公司",
-    "job_title": "業務助理//享優渥獎金福利！-25S006",
-    "location": "桃園市龜山區",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-19T01:12:39.856154",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
-    "job_id": "8jel3",
-    "url": "https://www.104.com.tw/job/8jel3?jobsource=joblist_search"
-  },
-  {
     "id": 1211581,
     "company": "104人力銀行_一零四資訊科技股份有限公司",
     "job_title": "FAE維護工程師【人資學院】",
@@ -4587,6 +4125,17 @@
     "url": "https://www.104.com.tw/job/8tvhx?jobsource=joblist_search"
   },
   {
+    "id": 1221995,
+    "company": "山隆通運股份有限公司",
+    "job_title": "貨櫃進出紀錄員",
+    "location": "台中市梧棲區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-09-19T01:12:30.35429",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "8twwn",
+    "url": "https://www.104.com.tw/job/8twwn?jobsource=joblist_search"
+  },
+  {
     "id": 1222769,
     "company": "寶成工業股份有限公司",
     "job_title": "PCG250182-資材_資材中階主管(印尼)",
@@ -4596,6 +4145,17 @@
     "last_seen_at": "2025-10-03T07:28:20.212959",
     "job_id": "8u40c",
     "url": "https://www.104.com.tw/job/8u40c?jobsource=joblist_search"
+  },
+  {
+    "id": 1222021,
+    "company": "毅嘉科技股份有限公司",
+    "job_title": "業務助理//享優渥獎金福利！-25S006",
+    "location": "桃園市龜山區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-09-19T01:12:39.856154",
+    "last_seen_at": "2025-10-17T01:09:06.658281",
+    "job_id": "8jel3",
+    "url": "https://www.104.com.tw/job/8jel3?jobsource=joblist_search"
   },
   {
     "id": 1223497,
@@ -4736,7 +4296,7 @@
     "location": "台北市松山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-19T01:28:11.434073",
-    "last_seen_at": "2025-10-16T07:20:16.064856",
+    "last_seen_at": "2025-10-17T01:08:48.367021",
     "job_id": "75oz2",
     "url": "https://www.104.com.tw/job/75oz2?jobsource=joblist_search"
   },
@@ -4758,7 +4318,7 @@
     "location": "新北市汐止區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-19T01:29:19.180482",
-    "last_seen_at": "2025-10-16T07:20:43.422995",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8u3no",
     "url": "https://www.104.com.tw/job/8u3no?jobsource=joblist_search"
   },
@@ -4769,7 +4329,7 @@
     "location": "新北市淡水區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-19T01:29:31.169004",
-    "last_seen_at": "2025-10-16T07:22:12.863897",
+    "last_seen_at": "2025-10-17T01:12:01.105267",
     "job_id": "57l4b",
     "url": "https://www.104.com.tw/job/57l4b?jobsource=joblist_search"
   },
@@ -4798,11 +4358,11 @@
   {
     "id": 1226071,
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
-    "job_title": "倉儲資深專員_台灣製造本部TW1(中壢)",
+    "job_title": "倉儲管理師/資深專員_台灣製造本部TW1(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-19T01:29:49.936203",
-    "last_seen_at": "2025-10-12T07:25:11.847941",
+    "last_seen_at": "2025-10-17T01:01:00.954427",
     "job_id": "8u3q9",
     "url": "https://www.104.com.tw/job/8u3q9?jobsource=joblist_search"
   },
@@ -6010,9 +5570,9 @@
     "company": "鐿鈦科技股份有限公司",
     "job_title": "現場助理工程師",
     "location": "台中市南屯區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-19T04:46:42.415116",
-    "last_seen_at": "2025-10-12T07:21:17.437918",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
     "job_id": "8tww9",
     "url": "https://www.104.com.tw/job/8tww9?jobsource=joblist_search"
   },
@@ -7904,7 +7464,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-19T07:37:03.23867",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
+    "last_seen_at": "2025-10-17T01:09:35.965598",
     "job_id": "7vxmy",
     "url": "https://www.104.com.tw/job/7vxmy?jobsource=joblist_search"
   },
@@ -8078,9 +7638,9 @@
     "company": "鴻海精密工業股份有限公司",
     "job_title": "【QPM】品質管理工程師",
     "location": "桃園市大園區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-19T07:37:10.699609",
-    "last_seen_at": "2025-10-12T07:22:17.929451",
+    "last_seen_at": "2025-10-17T01:02:11.486151",
     "job_id": "8u4kj",
     "url": "https://www.104.com.tw/job/8u4kj?jobsource=joblist_search"
   },
@@ -8443,7 +8003,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-20T01:15:18.312882",
-    "last_seen_at": "2025-10-16T07:26:28.60661",
+    "last_seen_at": "2025-10-17T01:11:23.248096",
     "job_id": "77ug1",
     "url": "https://www.104.com.tw/job/77ug1?jobsource=joblist_search"
   },
@@ -8562,9 +8122,9 @@
     "company": "全家便利商店股份有限公司",
     "job_title": "直營店儲備店長/支援儲備店長(金門縣金湖鎮)",
     "location": "金門縣金湖鎮",
-    "posted_at": "2025-09-19T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-20T01:24:27.716598",
-    "last_seen_at": "2025-09-20T07:25:22.529674",
+    "last_seen_at": "2025-10-17T01:06:43.456857",
     "job_id": "8u4zr",
     "url": "https://www.104.com.tw/job/8u4zr?jobsource=joblist_search"
   },
@@ -8584,9 +8144,9 @@
     "company": "博大科技股份有限公司",
     "job_title": "採購管理師",
     "location": "台中市南屯區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-20T01:25:02.701831",
-    "last_seen_at": "2025-10-12T07:20:35.790754",
+    "last_seen_at": "2025-10-17T01:01:00.954427",
     "job_id": "8n7vm",
     "url": "https://www.104.com.tw/job/8n7vm?jobsource=joblist_search"
   },
@@ -10663,9 +10223,9 @@
     "company": "麗嬰房股份有限公司",
     "job_title": "R6.麗嬰房-嘉義朴子門市 銷售人員",
     "location": "嘉義縣朴子市",
-    "posted_at": "2025-09-22T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-22T04:48:36.257304",
-    "last_seen_at": "2025-09-22T04:33:12.212183",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
     "job_id": "8u5w9",
     "url": "https://www.104.com.tw/job/8u5w9?jobsource=joblist_search"
   },
@@ -10742,7 +10302,7 @@
     "location": "新北市三重區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-22T04:49:09.710678",
-    "last_seen_at": "2025-10-16T07:22:31.508967",
+    "last_seen_at": "2025-10-17T01:11:13.957628",
     "job_id": "8txql",
     "url": "https://www.104.com.tw/job/8txql?jobsource=joblist_search"
   },
@@ -10795,9 +10355,9 @@
     "company": "博大科技股份有限公司",
     "job_title": "行銷儲備幹部",
     "location": "台中市南屯區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-22T04:51:43.495161",
-    "last_seen_at": "2025-10-12T07:21:08.238683",
+    "last_seen_at": "2025-10-17T01:01:47.223985",
     "job_id": "8tyvx",
     "url": "https://www.104.com.tw/job/8tyvx?jobsource=joblist_search"
   },
@@ -11103,9 +10663,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "【2026研發替代役暨預聘】電子設計資深工程師_驅動方案事業部(桃三)",
     "location": "桃園市桃園區",
-    "posted_at": "2025-09-23T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-23T01:19:10.158044",
-    "last_seen_at": "2025-09-23T07:28:07.115428",
+    "last_seen_at": "2025-10-17T01:01:05.561723",
     "job_id": "84zzy",
     "url": "https://www.104.com.tw/job/84zzy?jobsource=joblist_search"
   },
@@ -11237,7 +10797,7 @@
     "location": "台中市大雅區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-23T01:26:48.581009",
-    "last_seen_at": "2025-10-16T07:20:43.422995",
+    "last_seen_at": "2025-10-17T01:09:40.620563",
     "job_id": "8u4xo",
     "url": "https://www.104.com.tw/job/8u4xo?jobsource=joblist_search"
   },
@@ -11928,9 +11488,9 @@
     "company": "晶豪科技股份有限公司",
     "job_title": "業務(無線應用)",
     "location": "新竹縣竹北市",
-    "posted_at": "2025-09-23T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-23T04:47:27.41904",
-    "last_seen_at": "2025-09-23T07:23:38.518345",
+    "last_seen_at": "2025-10-17T01:02:50.086905",
     "job_id": "8u7k2",
     "url": "https://www.104.com.tw/job/8u7k2?jobsource=joblist_search"
   },
@@ -12238,7 +11798,7 @@
     "location": "其他亞洲",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-23T04:47:41.665452",
-    "last_seen_at": "2025-10-16T07:26:00.486735",
+    "last_seen_at": "2025-10-17T01:11:27.923818",
     "job_id": "8u7cd",
     "url": "https://www.104.com.tw/job/8u7cd?jobsource=joblist_search"
   },
@@ -13281,9 +12841,9 @@
     "company": "台灣氣立股份有限公司",
     "job_title": "FAE工程師(熟半導體廠設備或製程)",
     "location": "新北市泰山區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-24T01:14:38.647468",
-    "last_seen_at": "2025-10-11T01:08:25.635454",
+    "last_seen_at": "2025-10-17T01:01:42.669194",
     "job_id": "8u1xy",
     "url": "https://www.104.com.tw/job/8u1xy?jobsource=joblist_search"
   },
@@ -13369,9 +12929,9 @@
     "company": "台灣氣立股份有限公司",
     "job_title": "業務儲備幹部",
     "location": "新北市泰山區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-24T01:19:15.248121",
-    "last_seen_at": "2025-10-10T01:10:22.606167",
+    "last_seen_at": "2025-10-17T01:02:34.804648",
     "job_id": "8u20a",
     "url": "https://www.104.com.tw/job/8u20a?jobsource=joblist_search"
   },
@@ -13468,9 +13028,9 @@
     "company": "台灣精星科技股份有限公司",
     "job_title": "技術員【排班制】",
     "location": "新竹縣湖口鄉",
-    "posted_at": "2025-10-02T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-24T01:21:32.236875",
-    "last_seen_at": "2025-10-02T01:04:28.224597",
+    "last_seen_at": "2025-10-17T01:06:06.899444",
     "job_id": "8mbw5",
     "url": "https://www.104.com.tw/job/8mbw5?jobsource=joblist_search"
   },
@@ -13613,7 +13173,7 @@
     "location": "新北市汐止區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-24T01:26:53.407667",
-    "last_seen_at": "2025-10-16T07:21:16.043709",
+    "last_seen_at": "2025-10-17T01:09:59.316731",
     "job_id": "8kag4",
     "url": "https://www.104.com.tw/job/8kag4?jobsource=joblist_search"
   },
@@ -13941,9 +13501,9 @@
     "company": "御嵿國際股份有限公司",
     "job_title": "生活助理員(桃園)",
     "location": "桃園市蘆竹區",
-    "posted_at": "2025-10-02T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-24T04:44:19.983196",
-    "last_seen_at": "2025-10-02T01:05:36.868209",
+    "last_seen_at": "2025-10-17T01:05:29.045447",
     "job_id": "8u965",
     "url": "https://www.104.com.tw/job/8u965?jobsource=joblist_search"
   },
@@ -13954,7 +13514,7 @@
     "location": "台北市松山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-24T04:44:20.363803",
-    "last_seen_at": "2025-10-16T07:20:34.400144",
+    "last_seen_at": "2025-10-17T01:09:40.620563",
     "job_id": "8u95p",
     "url": "https://www.104.com.tw/job/8u95p?jobsource=joblist_search"
   },
@@ -14262,7 +13822,7 @@
     "location": "台南市安南區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-24T04:44:32.804987",
-    "last_seen_at": "2025-10-16T07:21:25.706269",
+    "last_seen_at": "2025-10-17T01:10:22.460753",
     "job_id": "8jk3f",
     "url": "https://www.104.com.tw/job/8jk3f?jobsource=joblist_search"
   },
@@ -14744,9 +14304,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "【資訊】推廣人員",
     "location": "台北市松山區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-24T07:39:29.824818",
-    "last_seen_at": "2025-10-04T07:27:01.607479",
+    "last_seen_at": "2025-10-17T01:07:15.36841",
     "job_id": "8u9hf",
     "url": "https://www.104.com.tw/job/8u9hf?jobsource=joblist_search"
   },
@@ -14977,7 +14537,7 @@
     "location": "台北市大同區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-24T07:39:48.644759",
-    "last_seen_at": "2025-10-16T07:22:12.863897",
+    "last_seen_at": "2025-10-17T01:11:00.134694",
     "job_id": "8u94o",
     "url": "https://www.104.com.tw/job/8u94o?jobsource=joblist_search"
   },
@@ -15052,9 +14612,9 @@
     "company": "燁興企業股份有限公司",
     "job_title": "新建工程部工程師",
     "location": "屏東縣枋寮鄉",
-    "posted_at": "2025-10-01T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-24T07:52:28.85084",
-    "last_seen_at": "2025-10-01T04:36:47.367275",
+    "last_seen_at": "2025-10-17T01:02:54.686513",
     "job_id": "8okgn",
     "url": "https://www.104.com.tw/job/8okgn?jobsource=joblist_search"
   },
@@ -15129,9 +14689,9 @@
     "company": "台塑_臺灣塑膠工業股份有限公司",
     "job_title": "行政助理員(地點近新北市八里)",
     "location": "新北市林口區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T01:14:55.33433",
-    "last_seen_at": "2025-10-11T07:26:25.677726",
+    "last_seen_at": "2025-10-17T01:11:09.383048",
     "job_id": "8ua7p",
     "url": "https://www.104.com.tw/job/8ua7p?jobsource=joblist_search"
   },
@@ -15193,11 +14753,11 @@
   {
     "id": 1326590,
     "company": "鴻名企業股份有限公司",
-    "job_title": "[線束線材]生管專員(台北總公司)",
+    "job_title": "[連接線材]生管專員(台北總公司)",
     "location": "台北市信義區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T01:14:58.553024",
-    "last_seen_at": "2025-10-16T07:21:02.317626",
+    "last_seen_at": "2025-10-17T01:09:45.277895",
     "job_id": "8ua3u",
     "url": "https://www.104.com.tw/job/8ua3u?jobsource=joblist_search"
   },
@@ -16152,9 +15712,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "機器人系統韌體設計工程師_輕型動力電源解決方案產品發展部(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-25T04:41:52.175672",
-    "last_seen_at": "2025-10-11T07:25:50.262316",
+    "last_seen_at": "2025-10-17T01:01:18.759666",
     "job_id": "8u3vg",
     "url": "https://www.104.com.tw/job/8u3vg?jobsource=joblist_search"
   },
@@ -16163,9 +15723,9 @@
     "company": "保銳科技股份有限公司",
     "job_title": "通路行銷專員(新店)",
     "location": "新北市新店區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T04:42:10.013249",
-    "last_seen_at": "2025-10-12T07:26:06.456264",
+    "last_seen_at": "2025-10-17T01:10:13.048522",
     "job_id": "8kjck",
     "url": "https://www.104.com.tw/job/8kjck?jobsource=joblist_search"
   },
@@ -16220,7 +15780,7 @@
     "location": "桃園市大園區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T04:45:42.333135",
-    "last_seen_at": "2025-10-16T07:20:47.827984",
+    "last_seen_at": "2025-10-17T01:09:02.017126",
     "job_id": "8uajl",
     "url": "https://www.104.com.tw/job/8uajl?jobsource=joblist_search"
   },
@@ -16264,7 +15824,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T04:45:43.490407",
-    "last_seen_at": "2025-10-16T07:20:06.59548",
+    "last_seen_at": "2025-10-17T01:08:29.850377",
     "job_id": "8uaii",
     "url": "https://www.104.com.tw/job/8uaii?jobsource=joblist_search"
   },
@@ -16330,7 +15890,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T04:45:45.74903",
-    "last_seen_at": "2025-10-16T07:23:17.300946",
+    "last_seen_at": "2025-10-17T01:12:24.26676",
     "job_id": "8uaf5",
     "url": "https://www.104.com.tw/job/8uaf5?jobsource=joblist_search"
   },
@@ -16471,9 +16031,9 @@
     "company": "友通資訊股份有限公司",
     "job_title": "(總部)S5000-Project Manager",
     "location": "新北市汐止區",
-    "posted_at": "2025-10-07T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T04:45:51.007898",
-    "last_seen_at": "2025-10-07T07:22:09.440493",
+    "last_seen_at": "2025-10-17T01:09:40.620563",
     "job_id": "8uab3",
     "url": "https://www.104.com.tw/job/8uab3?jobsource=joblist_search"
   },
@@ -16572,7 +16132,7 @@
     "location": "台中市梧棲區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T04:45:54.812595",
-    "last_seen_at": "2025-10-16T07:20:16.064856",
+    "last_seen_at": "2025-10-17T01:08:39.091616",
     "job_id": "8ua91",
     "url": "https://www.104.com.tw/job/8ua91?jobsource=joblist_search"
   },
@@ -16581,9 +16141,9 @@
     "company": "美律實業股份有限公司",
     "job_title": "麥克風產品-產品應用工程師(新竹)",
     "location": "新竹市",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T04:45:55.207665",
-    "last_seen_at": "2025-10-12T07:26:43.144628",
+    "last_seen_at": "2025-10-17T01:12:28.903057",
     "job_id": "8ua8p",
     "url": "https://www.104.com.tw/job/8ua8p?jobsource=joblist_search"
   },
@@ -16592,9 +16152,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "專案資深專員_智慧能源方案事業部(中壢）",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-25T04:45:55.59892",
-    "last_seen_at": "2025-10-10T07:30:13.956754",
+    "last_seen_at": "2025-10-17T01:02:06.860474",
     "job_id": "8ua89",
     "url": "https://www.104.com.tw/job/8ua89?jobsource=joblist_search"
   },
@@ -16869,7 +16429,7 @@
     "location": "台南市永康區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T07:40:15.447927",
-    "last_seen_at": "2025-10-16T07:20:01.397257",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
     "job_id": "8uasu",
     "url": "https://www.104.com.tw/job/8uasu?jobsource=joblist_search"
   },
@@ -16878,9 +16438,9 @@
     "company": "圓剛科技股份有限公司",
     "job_title": "Edge AI Computing 硬體研發資深工程師",
     "location": "新北市中和區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-25T07:40:15.839085",
-    "last_seen_at": "2025-10-06T07:31:12.104595",
+    "last_seen_at": "2025-10-17T01:05:24.478792",
     "job_id": "8uass",
     "url": "https://www.104.com.tw/job/8uass?jobsource=joblist_search"
   },
@@ -16911,9 +16471,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "電控設計資深(主任)工程師_設備客製事業發展部(AUT)(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-25T07:40:17.003917",
-    "last_seen_at": "2025-10-12T01:14:16.113758",
+    "last_seen_at": "2025-10-17T01:01:56.861875",
     "job_id": "8uar3",
     "url": "https://www.104.com.tw/job/8uar3?jobsource=joblist_search"
   },
@@ -16966,9 +16526,9 @@
     "company": "麗嬰房股份有限公司",
     "job_title": "R6.麗嬰房-嘉義朴子門市 時薪銷售人員",
     "location": "嘉義縣朴子市",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-25T07:40:18.574989",
-    "last_seen_at": "2025-10-10T01:10:54.343537",
+    "last_seen_at": "2025-10-17T01:01:47.223985",
     "job_id": "8uaq0",
     "url": "https://www.104.com.tw/job/8uaq0?jobsource=joblist_search"
   },
@@ -16979,7 +16539,7 @@
     "location": "高雄市楠梓區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T07:40:18.973239",
-    "last_seen_at": "2025-10-16T07:21:25.706269",
+    "last_seen_at": "2025-10-17T01:10:08.49786",
     "job_id": "6xhi2",
     "url": "https://www.104.com.tw/job/6xhi2?jobsource=joblist_search"
   },
@@ -16990,7 +16550,7 @@
     "location": "基隆市中山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T07:40:19.354877",
-    "last_seen_at": "2025-10-16T07:22:45.066872",
+    "last_seen_at": "2025-10-17T01:11:46.492924",
     "job_id": "6vzv4",
     "url": "https://www.104.com.tw/job/6vzv4?jobsource=joblist_search"
   },
@@ -17056,7 +16616,7 @@
     "location": "新竹縣竹北市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T07:40:21.628209",
-    "last_seen_at": "2025-10-16T07:23:12.718036",
+    "last_seen_at": "2025-10-17T01:12:05.765269",
     "job_id": "8uaoe",
     "url": "https://www.104.com.tw/job/8uaoe?jobsource=joblist_search"
   },
@@ -17100,7 +16660,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T07:40:23.187562",
-    "last_seen_at": "2025-10-16T07:20:52.273687",
+    "last_seen_at": "2025-10-17T01:09:02.017126",
     "job_id": "8uanm",
     "url": "https://www.104.com.tw/job/8uanm?jobsource=joblist_search"
   },
@@ -17133,7 +16693,7 @@
     "location": "桃園市桃園區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T07:40:24.347298",
-    "last_seen_at": "2025-10-16T07:20:47.827984",
+    "last_seen_at": "2025-10-17T01:09:45.277895",
     "job_id": "8814t",
     "url": "https://www.104.com.tw/job/8814t?jobsource=joblist_search"
   },
@@ -17155,7 +16715,7 @@
     "location": "新北市板橋區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-25T07:40:25.097041",
-    "last_seen_at": "2025-10-16T07:22:59.15088",
+    "last_seen_at": "2025-10-17T01:12:10.417196",
     "job_id": "4sg8z",
     "url": "https://www.104.com.tw/job/4sg8z?jobsource=joblist_search"
   },
@@ -17318,9 +16878,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "後勤經辦-中山分公司",
     "location": "台北市中山區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T01:13:53.258991",
-    "last_seen_at": "2025-10-06T07:30:22.420561",
+    "last_seen_at": "2025-10-17T01:01:42.669194",
     "job_id": "8l29d",
     "url": "https://www.104.com.tw/job/8l29d?jobsource=joblist_search"
   },
@@ -17703,9 +17263,9 @@
     "company": "安泰商業銀行股份有限公司",
     "job_title": "【2026實習計畫】法金客戶經理助理(ARM)實習生",
     "location": "台北市信義區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-26T01:28:07.262455",
-    "last_seen_at": "2025-10-12T07:25:29.772689",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8u3f8",
     "url": "https://www.104.com.tw/job/8u3f8?jobsource=joblist_search"
   },
@@ -17714,9 +17274,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "安全衛生管理師_Data Center Platform Taiwan(南科)",
     "location": "台南市善化區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T01:29:07.698191",
-    "last_seen_at": "2025-10-12T07:25:01.953664",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8mvr4",
     "url": "https://www.104.com.tw/job/8mvr4?jobsource=joblist_search"
   },
@@ -17725,9 +17285,9 @@
     "company": "圓剛科技股份有限公司",
     "job_title": "硬體研發工程師(RD7)",
     "location": "新北市中和區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T01:29:16.706678",
-    "last_seen_at": "2025-10-06T01:10:08.43127",
+    "last_seen_at": "2025-10-17T01:02:34.804648",
     "job_id": "83tmk",
     "url": "https://www.104.com.tw/job/83tmk?jobsource=joblist_search"
   },
@@ -17912,9 +17472,9 @@
     "company": "群益期貨股份有限公司",
     "job_title": "【交易結算部】中班交易員",
     "location": "台北市大安區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T04:45:17.275897",
-    "last_seen_at": "2025-10-06T04:38:32.365768",
+    "last_seen_at": "2025-10-17T01:01:51.706572",
     "job_id": "8ubtr",
     "url": "https://www.104.com.tw/job/8ubtr?jobsource=joblist_search"
   },
@@ -17967,9 +17527,9 @@
     "company": "群益期貨股份有限公司",
     "job_title": "【數位增長部】專案管理",
     "location": "台北市大安區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T04:45:20.00593",
-    "last_seen_at": "2025-10-03T04:37:44.596384",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
     "job_id": "8ubsq",
     "url": "https://www.104.com.tw/job/8ubsq?jobsource=joblist_search"
   },
@@ -18044,9 +17604,9 @@
     "company": "群益期貨股份有限公司",
     "job_title": "【數位增長部】資訊安全人員",
     "location": "台北市大安區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T04:45:22.717571",
-    "last_seen_at": "2025-10-06T07:28:13.460216",
+    "last_seen_at": "2025-10-17T01:01:05.561723",
     "job_id": "8ubrt",
     "url": "https://www.104.com.tw/job/8ubrt?jobsource=joblist_search"
   },
@@ -18220,9 +17780,9 @@
     "company": "聯華實業控股股份有限公司",
     "job_title": "總務人員【台北】",
     "location": "台北市南港區",
-    "posted_at": "2025-10-08T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-26T04:45:29.349044",
-    "last_seen_at": "2025-10-09T01:09:55.796916",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
     "job_id": "8by9k",
     "url": "https://www.104.com.tw/job/8by9k?jobsource=joblist_search"
   },
@@ -18341,9 +17901,9 @@
     "company": "健身工廠_柏文健康事業股份有限公司",
     "job_title": "【全新開幕】(不用輪班)工務技師｜健身工廠高雄仁武廠",
     "location": "高雄市仁武區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T04:45:20.394299",
-    "last_seen_at": "2025-10-12T07:24:20.56448",
+    "last_seen_at": "2025-10-17T01:03:24.241997",
     "job_id": "8ubsn",
     "url": "https://www.104.com.tw/job/8ubsn?jobsource=joblist_search"
   },
@@ -18869,9 +18429,9 @@
     "company": "聯合光纖通信股份有限公司",
     "job_title": "AutoCAD 工程繪圖人員（日文）",
     "location": "高雄市左營區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T07:39:45.819457",
-    "last_seen_at": "2025-10-12T07:21:31.845886",
+    "last_seen_at": "2025-10-17T01:01:47.223985",
     "job_id": "8uc0u",
     "url": "https://www.104.com.tw/job/8uc0u?jobsource=joblist_search"
   },
@@ -18882,7 +18442,7 @@
     "location": "雲林縣斗六市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-26T07:39:46.313353",
-    "last_seen_at": "2025-10-16T07:21:31.259608",
+    "last_seen_at": "2025-10-17T01:10:22.460753",
     "job_id": "8uc0n",
     "url": "https://www.104.com.tw/job/8uc0n?jobsource=joblist_search"
   },
@@ -18893,7 +18453,7 @@
     "location": "雲林縣斗六市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-26T07:39:46.783402",
-    "last_seen_at": "2025-10-16T07:20:47.827984",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8uc0j",
     "url": "https://www.104.com.tw/job/8uc0j?jobsource=joblist_search"
   },
@@ -19245,7 +18805,7 @@
     "location": "南投縣南投市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-27T01:20:24.54242",
-    "last_seen_at": "2025-10-16T07:22:40.482431",
+    "last_seen_at": "2025-10-17T01:11:09.383048",
     "job_id": "7dmgu",
     "url": "https://www.104.com.tw/job/7dmgu?jobsource=joblist_search"
   },
@@ -19386,9 +18946,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "【海外派駐】智能製造軟體專案經理",
     "location": "其他亞洲",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-26T07:39:52.138579",
-    "last_seen_at": "2025-10-05T07:27:08.333846",
+    "last_seen_at": "2025-10-17T01:01:38.223746",
     "job_id": "84g70",
     "url": "https://www.104.com.tw/job/84g70?jobsource=joblist_search"
   },
@@ -21080,9 +20640,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "【資訊部】維運實習生/工讀生",
     "location": "台北市松山區",
-    "posted_at": "2025-09-30T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-09-30T04:54:44.935294",
-    "last_seen_at": "2025-09-30T07:28:22.069344",
+    "last_seen_at": "2025-10-17T01:01:56.861875",
     "job_id": "72ptw",
     "url": "https://www.104.com.tw/job/72ptw?jobsource=joblist_search"
   },
@@ -21456,7 +21016,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-30T07:35:39.26751",
-    "last_seen_at": "2025-10-16T07:22:03.726188",
+    "last_seen_at": "2025-10-17T01:10:40.727159",
     "job_id": "8u6mx",
     "url": "https://www.104.com.tw/job/8u6mx?jobsource=joblist_search"
   },
@@ -21599,7 +21159,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-09-30T07:42:45.707708",
-    "last_seen_at": "2025-10-16T07:21:06.886623",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "8uebm",
     "url": "https://www.104.com.tw/job/8uebm?jobsource=joblist_search"
   },
@@ -21692,17 +21252,6 @@
     "url": "https://www.104.com.tw/job/8ue85?jobsource=joblist_search"
   },
   {
-    "id": 1432247,
-    "company": "大魯閣實業股份有限公司",
-    "job_title": "【花蓮國聯_保齡球館】營運場館服務",
-    "location": "花蓮縣花蓮市",
-    "posted_at": "2025-10-16T00:00:00",
-    "created_at": "2025-09-30T07:42:49.990339",
-    "last_seen_at": "2025-10-16T07:20:56.787557",
-    "job_id": "8ue8f",
-    "url": "https://www.104.com.tw/job/8ue8f?jobsource=joblist_search"
-  },
-  {
     "id": 1432243,
     "company": "智邦科技股份有限公司",
     "job_title": "【新竹廠】總務管理師-FE1110",
@@ -21712,17 +21261,6 @@
     "last_seen_at": "2025-10-14T07:29:34.13462",
     "job_id": "8ue8j",
     "url": "https://www.104.com.tw/job/8ue8j?jobsource=joblist_search"
-  },
-  {
-    "id": 1432251,
-    "company": "群益金鼎證券股份有限公司",
-    "job_title": "【投顧】美股研究員",
-    "location": "台北市松山區",
-    "posted_at": "2025-09-30T00:00:00",
-    "created_at": "2025-09-30T07:42:50.598278",
-    "last_seen_at": "2025-09-30T07:28:16.504187",
-    "job_id": "87gj5",
-    "url": "https://www.104.com.tw/job/87gj5?jobsource=joblist_search"
   },
   {
     "id": 1432253,
@@ -21769,6 +21307,17 @@
     "url": "https://www.104.com.tw/job/8ue6q?jobsource=joblist_search"
   },
   {
+    "id": 1432251,
+    "company": "群益金鼎證券股份有限公司",
+    "job_title": "【投顧】美股研究員",
+    "location": "台北市松山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-09-30T07:42:50.598278",
+    "last_seen_at": "2025-10-17T01:01:00.954427",
+    "job_id": "87gj5",
+    "url": "https://www.104.com.tw/job/87gj5?jobsource=joblist_search"
+  },
+  {
     "id": 1432265,
     "company": "晟銘電子科技股份有限公司",
     "job_title": "專案業務人員",
@@ -21789,6 +21338,17 @@
     "last_seen_at": "2025-10-14T07:21:57.293732",
     "job_id": "6f2ik",
     "url": "https://www.104.com.tw/job/6f2ik?jobsource=joblist_search"
+  },
+  {
+    "id": 1432247,
+    "company": "大魯閣實業股份有限公司",
+    "job_title": "【花蓮國聯_保齡球館】營運場館服務",
+    "location": "花蓮縣花蓮市",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-09-30T07:42:49.990339",
+    "last_seen_at": "2025-10-17T01:09:02.017126",
+    "job_id": "8ue8f",
+    "url": "https://www.104.com.tw/job/8ue8f?jobsource=joblist_search"
   },
   {
     "id": 1432245,
@@ -21905,9 +21465,9 @@
     "company": "圓剛科技股份有限公司",
     "job_title": "Edge AI Turnkey Solution Engineering Planner",
     "location": "新北市中和區",
-    "posted_at": "2025-10-01T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-01T01:21:50.115672",
-    "last_seen_at": "2025-10-01T07:23:54.520214",
+    "last_seen_at": "2025-10-17T01:06:11.464511",
     "job_id": "8uf4e",
     "url": "https://www.104.com.tw/job/8uf4e?jobsource=joblist_search"
   },
@@ -24534,9 +24094,9 @@
     "company": "福懋科技股份有限公司",
     "job_title": "人力資源管理師",
     "location": "雲林縣斗六市",
-    "posted_at": "2025-10-01T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-01T04:44:18.013273",
-    "last_seen_at": "2025-10-02T01:06:41.711467",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
     "job_id": "8ufiq",
     "url": "https://www.104.com.tw/job/8ufiq?jobsource=joblist_search"
   },
@@ -24569,7 +24129,7 @@
     "location": "台北市大同區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-01T04:44:19.116781",
-    "last_seen_at": "2025-10-16T07:20:01.397257",
+    "last_seen_at": "2025-10-17T01:08:25.31894",
     "job_id": "8uffe",
     "url": "https://www.104.com.tw/job/8uffe?jobsource=joblist_search"
   },
@@ -25064,7 +24624,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-01T07:36:25.703391",
-    "last_seen_at": "2025-10-16T07:20:11.54709",
+    "last_seen_at": "2025-10-17T01:08:52.870738",
     "job_id": "80rgt",
     "url": "https://www.104.com.tw/job/80rgt?jobsource=joblist_search"
   },
@@ -25559,7 +25119,7 @@
     "location": "墨西哥",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:10:52.426291",
-    "last_seen_at": "2025-10-16T07:21:16.043709",
+    "last_seen_at": "2025-10-17T01:10:49.85714",
     "job_id": "7ogsn",
     "url": "https://www.104.com.tw/job/7ogsn?jobsource=joblist_search"
   },
@@ -25570,7 +25130,7 @@
     "location": "台中市梧棲區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:11:02.590067",
-    "last_seen_at": "2025-10-16T07:25:11.554143",
+    "last_seen_at": "2025-10-17T01:12:24.26676",
     "job_id": "8u86s",
     "url": "https://www.104.com.tw/job/8u86s?jobsource=joblist_search"
   },
@@ -25579,9 +25139,9 @@
     "company": "博大科技股份有限公司",
     "job_title": "產品應用工程師",
     "location": "台中市南屯區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T01:11:36.414979",
-    "last_seen_at": "2025-10-12T07:22:04.232024",
+    "last_seen_at": "2025-10-17T01:02:06.860474",
     "job_id": "8st91",
     "url": "https://www.104.com.tw/job/8st91?jobsource=joblist_search"
   },
@@ -25603,7 +25163,7 @@
     "location": "新竹縣竹北市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:12:04.686141",
-    "last_seen_at": "2025-10-16T07:22:45.066872",
+    "last_seen_at": "2025-10-17T01:11:46.492924",
     "job_id": "8ub9o",
     "url": "https://www.104.com.tw/job/8ub9o?jobsource=joblist_search"
   },
@@ -25647,7 +25207,7 @@
     "location": "台北市信義區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:13:20.262088",
-    "last_seen_at": "2025-10-16T07:21:20.610286",
+    "last_seen_at": "2025-10-17T01:10:03.901719",
     "job_id": "8akjp",
     "url": "https://www.104.com.tw/job/8akjp?jobsource=joblist_search"
   },
@@ -25680,7 +25240,7 @@
     "location": "台中市潭子區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:14:14.248338",
-    "last_seen_at": "2025-10-16T07:22:03.726188",
+    "last_seen_at": "2025-10-17T01:12:15.047411",
     "job_id": "8ugl9",
     "url": "https://www.104.com.tw/job/8ugl9?jobsource=joblist_search"
   },
@@ -25713,7 +25273,7 @@
     "location": "高雄市大社區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:14:16.283051",
-    "last_seen_at": "2025-10-16T07:22:36.043121",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "8htii",
     "url": "https://www.104.com.tw/job/8htii?jobsource=joblist_search"
   },
@@ -25724,7 +25284,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:14:16.811209",
-    "last_seen_at": "2025-10-16T07:20:11.54709",
+    "last_seen_at": "2025-10-17T01:08:48.367021",
     "job_id": "8ugka",
     "url": "https://www.104.com.tw/job/8ugka?jobsource=joblist_search"
   },
@@ -25735,7 +25295,7 @@
     "location": "嘉義縣大林鎮",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:14:17.315177",
-    "last_seen_at": "2025-10-16T07:20:56.787557",
+    "last_seen_at": "2025-10-17T01:09:35.965598",
     "job_id": "5vep3",
     "url": "https://www.104.com.tw/job/5vep3?jobsource=joblist_search"
   },
@@ -25757,7 +25317,7 @@
     "location": "高雄市仁武區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:14:19.345778",
-    "last_seen_at": "2025-10-16T07:20:20.877404",
+    "last_seen_at": "2025-10-17T01:08:52.870738",
     "job_id": "8ugj8",
     "url": "https://www.104.com.tw/job/8ugj8?jobsource=joblist_search"
   },
@@ -25777,9 +25337,9 @@
     "company": "台灣半導體股份有限公司",
     "job_title": "廠務廢水高級工程師(利澤)",
     "location": "宜蘭縣五結鄉",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T01:19:41.390678",
-    "last_seen_at": "2025-10-09T04:37:42.56612",
+    "last_seen_at": "2025-10-17T01:01:56.861875",
     "job_id": "8mflo",
     "url": "https://www.104.com.tw/job/8mflo?jobsource=joblist_search"
   },
@@ -25909,9 +25469,9 @@
     "company": "博大科技股份有限公司",
     "job_title": "品管助理工程師",
     "location": "台中市南屯區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T01:10:49.853331",
-    "last_seen_at": "2025-10-12T07:20:40.260051",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8oq2i",
     "url": "https://www.104.com.tw/job/8oq2i?jobsource=joblist_search"
   },
@@ -25933,7 +25493,7 @@
     "location": "台中市大雅區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T01:34:59.812243",
-    "last_seen_at": "2025-10-16T07:20:20.877404",
+    "last_seen_at": "2025-10-17T01:09:02.017126",
     "job_id": "8ufy4",
     "url": "https://www.104.com.tw/job/8ufy4?jobsource=joblist_search"
   },
@@ -26032,7 +25592,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T04:44:29.125997",
-    "last_seen_at": "2025-10-16T07:21:06.886623",
+    "last_seen_at": "2025-10-17T01:10:13.048522",
     "job_id": "8ugzg",
     "url": "https://www.104.com.tw/job/8ugzg?jobsource=joblist_search"
   },
@@ -26109,7 +25669,7 @@
     "location": "台中市豐原區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T04:44:31.864144",
-    "last_seen_at": "2025-10-16T07:22:54.493841",
+    "last_seen_at": "2025-10-17T01:11:51.129728",
     "job_id": "3yawj",
     "url": "https://www.104.com.tw/job/3yawj?jobsource=joblist_search"
   },
@@ -26129,9 +25689,9 @@
     "company": "大聯大控股股份有限公司",
     "job_title": "2026實習生專案：資訊系統品管實習工程師",
     "location": "台北市南港區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T04:44:32.652304",
-    "last_seen_at": "2025-10-12T07:21:45.26298",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
     "job_id": "8ugw2",
     "url": "https://www.104.com.tw/job/8ugw2?jobsource=joblist_search"
   },
@@ -26164,7 +25724,7 @@
     "location": "新北市汐止區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T04:44:33.827531",
-    "last_seen_at": "2025-10-16T07:20:47.827984",
+    "last_seen_at": "2025-10-17T01:09:31.325551",
     "job_id": "8ugvn",
     "url": "https://www.104.com.tw/job/8ugvn?jobsource=joblist_search"
   },
@@ -26195,9 +25755,9 @@
     "company": "川湖科技股份有限公司",
     "job_title": "【擴大徵才】品保量測員 - 優渥年終獎金/無經驗可",
     "location": "高雄市路竹區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T04:44:35.013734",
-    "last_seen_at": "2025-10-12T07:25:01.953664",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8kyb8",
     "url": "https://www.104.com.tw/job/8kyb8?jobsource=joblist_search"
   },
@@ -26206,9 +25766,9 @@
     "company": "大聯大控股股份有限公司",
     "job_title": "2026實習生專案：AI實習工程師",
     "location": "台北市南港區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T04:44:35.399067",
-    "last_seen_at": "2025-10-12T07:20:35.790754",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8ugv0",
     "url": "https://www.104.com.tw/job/8ugv0?jobsource=joblist_search"
   },
@@ -26252,7 +25812,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T04:44:36.95236",
-    "last_seen_at": "2025-10-16T07:22:17.450541",
+    "last_seen_at": "2025-10-17T01:12:01.105267",
     "job_id": "8ugu4",
     "url": "https://www.104.com.tw/job/8ugu4?jobsource=joblist_search"
   },
@@ -26349,9 +25909,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "後勤經辦-敦南分公司",
     "location": "台北市大安區",
-    "posted_at": "2025-10-02T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T04:44:40.460204",
-    "last_seen_at": "2025-10-03T01:06:53.858928",
+    "last_seen_at": "2025-10-17T01:01:33.757005",
     "job_id": "69579",
     "url": "https://www.104.com.tw/job/69579?jobsource=joblist_search"
   },
@@ -26415,9 +25975,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "學習發展資深專員_台灣製造本部(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T04:44:43.59889",
-    "last_seen_at": "2025-10-12T07:24:56.91102",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8ugp1",
     "url": "https://www.104.com.tw/job/8ugp1?jobsource=joblist_search"
   },
@@ -26824,7 +26384,7 @@
     "location": "新竹縣關西鎮",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T07:35:56.068752",
-    "last_seen_at": "2025-10-16T07:21:54.63574",
+    "last_seen_at": "2025-10-17T01:12:35.229136",
     "job_id": "8uhd2",
     "url": "https://www.104.com.tw/job/8uhd2?jobsource=joblist_search"
   },
@@ -26956,7 +26516,7 @@
     "location": "新北市新店區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T07:36:00.737356",
-    "last_seen_at": "2025-10-16T07:20:01.397257",
+    "last_seen_at": "2025-10-17T01:08:25.31894",
     "job_id": "8uh87",
     "url": "https://www.104.com.tw/job/8uh87?jobsource=joblist_search"
   },
@@ -27011,7 +26571,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T07:36:02.29884",
-    "last_seen_at": "2025-10-16T07:21:20.610286",
+    "last_seen_at": "2025-10-17T01:11:18.589243",
     "job_id": "3b95g",
     "url": "https://www.104.com.tw/job/3b95g?jobsource=joblist_search"
   },
@@ -27020,9 +26580,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "生技資深工程師_台灣製造本部(平鎮)",
     "location": "桃園市平鎮區",
-    "posted_at": "2025-10-02T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T07:36:02.609314",
-    "last_seen_at": "2025-10-02T07:22:52.125756",
+    "last_seen_at": "2025-10-17T01:10:13.048522",
     "job_id": "8uh5n",
     "url": "https://www.104.com.tw/job/8uh5n?jobsource=joblist_search"
   },
@@ -27042,9 +26602,9 @@
     "company": "川湖科技股份有限公司",
     "job_title": "【擴大徵才】外銷業務專員－優渥年終獎金/提供宿舍/無經驗可",
     "location": "高雄市路竹區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T07:36:03.227942",
-    "last_seen_at": "2025-10-12T07:26:01.826489",
+    "last_seen_at": "2025-10-17T01:01:05.561723",
     "job_id": "34uc4",
     "url": "https://www.104.com.tw/job/34uc4?jobsource=joblist_search"
   },
@@ -27088,7 +26648,7 @@
     "location": "彰化縣線西鄉",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T07:36:04.812655",
-    "last_seen_at": "2025-10-16T07:20:25.741648",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8uh2g",
     "url": "https://www.104.com.tw/job/8uh2g?jobsource=joblist_search"
   },
@@ -27097,9 +26657,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "產業分析資深專員__電源及系統事業群(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T07:36:05.122555",
-    "last_seen_at": "2025-10-12T07:25:07.263623",
+    "last_seen_at": "2025-10-17T01:01:00.954427",
     "job_id": "8uh2e",
     "url": "https://www.104.com.tw/job/8uh2e?jobsource=joblist_search"
   },
@@ -27119,9 +26679,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "投資資深專員__電源及系統事業群(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-02T07:36:05.752488",
-    "last_seen_at": "2025-10-12T07:25:52.681904",
+    "last_seen_at": "2025-10-17T01:01:14.393948",
     "job_id": "8uh1y",
     "url": "https://www.104.com.tw/job/8uh1y?jobsource=joblist_search"
   },
@@ -27176,7 +26736,7 @@
     "location": "台中市大雅區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-02T07:36:07.588342",
-    "last_seen_at": "2025-10-16T07:20:06.59548",
+    "last_seen_at": "2025-10-17T01:08:39.091616",
     "job_id": "7qf1r",
     "url": "https://www.104.com.tw/job/7qf1r?jobsource=joblist_search"
   },
@@ -27350,9 +26910,9 @@
     "company": "群益期貨股份有限公司",
     "job_title": "【交易結算部】早班交易員",
     "location": "台北市大安區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T01:13:35.881902",
-    "last_seen_at": "2025-10-06T07:31:07.530055",
+    "last_seen_at": "2025-10-17T01:01:09.952676",
     "job_id": "8uhzm",
     "url": "https://www.104.com.tw/job/8uhzm?jobsource=joblist_search"
   },
@@ -27416,9 +26976,9 @@
     "company": "中鼎集團_中鼎工程股份有限公司",
     "job_title": "土木品管 (20250926BDS00001)",
     "location": "台北市士林區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T01:22:44.412113",
-    "last_seen_at": "2025-10-12T07:24:29.603967",
+    "last_seen_at": "2025-10-17T01:06:57.083938",
     "job_id": "8ucdw",
     "url": "https://www.104.com.tw/job/8ucdw?jobsource=joblist_search"
   },
@@ -27449,9 +27009,9 @@
     "company": "日揚科技股份有限公司",
     "job_title": "（台南）T673-銑床組-CNC銑床組組長",
     "location": "台南市新市區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T01:24:04.102147",
-    "last_seen_at": "2025-10-12T07:24:34.103008",
+    "last_seen_at": "2025-10-17T01:07:06.137552",
     "job_id": "8f3px",
     "url": "https://www.104.com.tw/job/8f3px?jobsource=joblist_search"
   },
@@ -27460,9 +27020,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "工程支援資深工程師_儲能產品新事業發展部(桃五)",
     "location": "桃園市桃園區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T01:25:44.378954",
-    "last_seen_at": "2025-10-12T07:28:05.299903",
+    "last_seen_at": "2025-10-17T01:01:18.759666",
     "job_id": "8uho2",
     "url": "https://www.104.com.tw/job/8uho2?jobsource=joblist_search"
   },
@@ -27482,9 +27042,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "統購資深專員_中壢",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T01:26:33.945844",
-    "last_seen_at": "2025-10-12T07:27:01.340393",
+    "last_seen_at": "2025-10-17T01:01:18.759666",
     "job_id": "8uhhz",
     "url": "https://www.104.com.tw/job/8uhhz?jobsource=joblist_search"
   },
@@ -27526,9 +27086,9 @@
     "company": "台南企業股份有限公司",
     "job_title": "資深時尚服裝設計師",
     "location": "台北市中正區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T01:31:39.767487",
-    "last_seen_at": "2025-10-12T07:24:47.712779",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "83q7m",
     "url": "https://www.104.com.tw/job/83q7m?jobsource=joblist_search"
   },
@@ -27550,7 +27110,7 @@
     "location": "台北市南港區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-03T01:32:59.766907",
-    "last_seen_at": "2025-10-16T07:24:53.084259",
+    "last_seen_at": "2025-10-17T01:12:24.26676",
     "job_id": "8uhez",
     "url": "https://www.104.com.tw/job/8uhez?jobsource=joblist_search"
   },
@@ -27922,9 +27482,9 @@
     "company": "日揚科技股份有限公司",
     "job_title": "（台南）【集團】電子業務部-銷售工程師",
     "location": "高雄市前金區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T04:43:43.678425",
-    "last_seen_at": "2025-10-12T07:21:12.83776",
+    "last_seen_at": "2025-10-17T01:01:09.952676",
     "job_id": "8uias",
     "url": "https://www.104.com.tw/job/8uias?jobsource=joblist_search"
   },
@@ -27942,11 +27502,11 @@
   {
     "id": 1477913,
     "company": "嘉澤端子工業股份有限公司",
-    "job_title": "業務專員(liquid-cooling-UQD)",
+    "job_title": "業務專員(Liquid-cooling QD)",
     "location": "台北市南港區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T04:43:44.849239",
-    "last_seen_at": "2025-10-12T07:20:58.449476",
+    "last_seen_at": "2025-10-17T01:01:09.952676",
     "job_id": "8ui9u",
     "url": "https://www.104.com.tw/job/8ui9u?jobsource=joblist_search"
   },
@@ -29143,9 +28703,9 @@
     "company": "幃翔精密股份有限公司",
     "job_title": "客戶服務主管",
     "location": "新北市土城區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T07:34:38.921432",
-    "last_seen_at": "2025-10-12T07:21:31.845886",
+    "last_seen_at": "2025-10-17T01:01:18.759666",
     "job_id": "8uigx",
     "url": "https://www.104.com.tw/job/8uigx?jobsource=joblist_search"
   },
@@ -29165,9 +28725,9 @@
     "company": "山隆通運股份有限公司",
     "job_title": "新竹 -【第三梯次全台熱烈招募中】加油站儲備營運主管培訓開跑！3個月晉升管理職，加薪20％不是夢",
     "location": "新竹縣關西鎮",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T04:43:47.174585",
-    "last_seen_at": "2025-10-12T07:21:40.818318",
+    "last_seen_at": "2025-10-17T01:02:11.486151",
     "job_id": "8ui7y",
     "url": "https://www.104.com.tw/job/8ui7y?jobsource=joblist_search"
   },
@@ -29187,9 +28747,9 @@
     "company": "信昌電子陶瓷股份有限公司",
     "job_title": "12小時夜班品保人員(楊梅廠)",
     "location": "桃園市楊梅區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-03T07:39:26.297867",
-    "last_seen_at": "2025-10-12T07:21:49.792863",
+    "last_seen_at": "2025-10-17T01:02:11.486151",
     "job_id": "8twv4",
     "url": "https://www.104.com.tw/job/8twv4?jobsource=joblist_search"
   },
@@ -29506,9 +29066,9 @@
     "company": "圓剛科技股份有限公司",
     "job_title": "機構資深工程師",
     "location": "新北市中和區",
-    "posted_at": "2025-10-03T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-04T01:15:13.265881",
-    "last_seen_at": "2025-10-06T07:30:31.048072",
+    "last_seen_at": "2025-10-17T01:01:14.393948",
     "job_id": "7lmjf",
     "url": "https://www.104.com.tw/job/7lmjf?jobsource=joblist_search"
   },
@@ -29783,7 +29343,7 @@
     "location": "台中市東區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-04T04:37:14.023418",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
+    "last_seen_at": "2025-10-17T01:09:15.96246",
     "job_id": "8anv3",
     "url": "https://www.104.com.tw/job/8anv3?jobsource=joblist_search"
   },
@@ -32214,7 +31774,7 @@
     "location": "桃園市桃園區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-07T04:51:29.140671",
-    "last_seen_at": "2025-10-16T07:21:06.886623",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "7c0yq",
     "url": "https://www.104.com.tw/job/7c0yq?jobsource=joblist_search"
   },
@@ -32335,7 +31895,7 @@
     "location": "新北市汐止區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-07T04:51:33.412946",
-    "last_seen_at": "2025-10-16T07:23:17.300946",
+    "last_seen_at": "2025-10-17T01:12:10.417196",
     "job_id": "8ukiq",
     "url": "https://www.104.com.tw/job/8ukiq?jobsource=joblist_search"
   },
@@ -32489,7 +32049,7 @@
     "location": "雲林縣斗六市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-07T04:51:38.786349",
-    "last_seen_at": "2025-10-16T07:20:38.812556",
+    "last_seen_at": "2025-10-17T01:08:52.870738",
     "job_id": "8ukax",
     "url": "https://www.104.com.tw/job/8ukax?jobsource=joblist_search"
   },
@@ -32709,7 +32269,7 @@
     "location": "台中市西屯區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-07T07:36:10.773301",
-    "last_seen_at": "2025-10-16T07:21:31.259608",
+    "last_seen_at": "2025-10-17T01:09:40.620563",
     "job_id": "7qq9p",
     "url": "https://www.104.com.tw/job/7qq9p?jobsource=joblist_search"
   },
@@ -32762,9 +32322,9 @@
     "company": "晟田科技工業股份有限公司",
     "job_title": "噴漆/塗裝技術人員",
     "location": "高雄市路竹區",
-    "posted_at": "2025-10-07T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-07T07:42:20.958127",
-    "last_seen_at": "2025-10-07T07:28:22.888094",
+    "last_seen_at": "2025-10-17T01:11:41.886712",
     "job_id": "7d7e3",
     "url": "https://www.104.com.tw/job/7d7e3?jobsource=joblist_search"
   },
@@ -32896,7 +32456,7 @@
     "location": "台中市西屯區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-07T07:42:24.797024",
-    "last_seen_at": "2025-10-16T07:23:12.718036",
+    "last_seen_at": "2025-10-17T01:11:13.957628",
     "job_id": "8ul15",
     "url": "https://www.104.com.tw/job/8ul15?jobsource=joblist_search"
   },
@@ -33235,9 +32795,9 @@
     "company": "全家便利商店股份有限公司",
     "job_title": "加盟企劃專員(加盟企劃課)",
     "location": "台北市中山區",
-    "posted_at": "2025-10-07T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-07T07:42:34.523471",
-    "last_seen_at": "2025-10-07T07:28:36.075843",
+    "last_seen_at": "2025-10-17T01:04:28.077313",
     "job_id": "8ukre",
     "url": "https://www.104.com.tw/job/8ukre?jobsource=joblist_search"
   },
@@ -34799,7 +34359,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-08T04:43:51.591757",
-    "last_seen_at": "2025-10-16T07:22:49.695181",
+    "last_seen_at": "2025-10-17T01:12:01.105267",
     "job_id": "8uma9",
     "url": "https://www.104.com.tw/job/8uma9?jobsource=joblist_search"
   },
@@ -34887,7 +34447,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-08T04:43:54.100201",
-    "last_seen_at": "2025-10-16T07:20:47.827984",
+    "last_seen_at": "2025-10-17T01:09:11.219933",
     "job_id": "8um80",
     "url": "https://www.104.com.tw/job/8um80?jobsource=joblist_search"
   },
@@ -34940,9 +34500,9 @@
     "company": "群益期貨股份有限公司",
     "job_title": "【數位增長部】開發工程師",
     "location": "台北市大安區",
-    "posted_at": "2025-10-08T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-08T04:43:55.686038",
-    "last_seen_at": "2025-10-08T07:22:43.483952",
+    "last_seen_at": "2025-10-17T01:06:20.729068",
     "job_id": "8um73",
     "url": "https://www.104.com.tw/job/8um73?jobsource=joblist_search"
   },
@@ -34962,9 +34522,9 @@
     "company": "群益期貨股份有限公司",
     "job_title": "【數位增長部】網站設計師",
     "location": "台北市大安區",
-    "posted_at": "2025-10-08T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-08T04:43:56.665623",
-    "last_seen_at": "2025-10-08T07:22:43.483952",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
     "job_id": "8um6j",
     "url": "https://www.104.com.tw/job/8um6j?jobsource=joblist_search"
   },
@@ -35237,9 +34797,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "後勤經辦-西松分公司",
     "location": "台北市松山區",
-    "posted_at": "2025-10-08T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-08T04:44:05.079973",
-    "last_seen_at": "2025-10-08T07:22:47.776707",
+    "last_seen_at": "2025-10-17T01:01:47.223985",
     "job_id": "87ew5",
     "url": "https://www.104.com.tw/job/87ew5?jobsource=joblist_search"
   },
@@ -35613,7 +35173,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-08T07:31:15.88931",
-    "last_seen_at": "2025-10-16T07:21:16.043709",
+    "last_seen_at": "2025-10-17T01:10:17.627457",
     "job_id": "7qh9k",
     "url": "https://www.104.com.tw/job/7qh9k?jobsource=joblist_search"
   },
@@ -35677,9 +35237,9 @@
     "company": "元大金融控股股份有限公司(元大金控) (元大證券) (元大銀行)",
     "job_title": "元大金控-行政管理部-行政人員",
     "location": "台北市大安區",
-    "posted_at": "2025-10-08T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-08T07:36:38.896489",
-    "last_seen_at": "2025-10-08T07:22:30.420403",
+    "last_seen_at": "2025-10-17T01:11:00.134694",
     "job_id": "8umms",
     "url": "https://www.104.com.tw/job/8umms?jobsource=joblist_search"
   },
@@ -35965,7 +35525,7 @@
     "location": "桃園市觀音區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-08T07:36:49.709298",
-    "last_seen_at": "2025-10-16T07:20:56.787557",
+    "last_seen_at": "2025-10-17T01:12:01.105267",
     "job_id": "6t5gd",
     "url": "https://www.104.com.tw/job/6t5gd?jobsource=joblist_search"
   },
@@ -36075,7 +35635,7 @@
     "location": "高雄市前鎮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-08T07:36:53.774379",
-    "last_seen_at": "2025-10-16T07:20:43.422995",
+    "last_seen_at": "2025-10-17T01:09:45.277895",
     "job_id": "8umed",
     "url": "https://www.104.com.tw/job/8umed?jobsource=joblist_search"
   },
@@ -36174,7 +35734,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T01:12:15.91701",
-    "last_seen_at": "2025-10-16T07:21:35.838193",
+    "last_seen_at": "2025-10-17T01:10:26.996376",
     "job_id": "8uhjr",
     "url": "https://www.104.com.tw/job/8uhjr?jobsource=joblist_search"
   },
@@ -36218,7 +35778,7 @@
     "location": "新北市鶯歌區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T01:14:48.208133",
-    "last_seen_at": "2025-10-16T07:22:40.482431",
+    "last_seen_at": "2025-10-17T01:12:01.105267",
     "job_id": "87wgp",
     "url": "https://www.104.com.tw/job/87wgp?jobsource=joblist_search"
   },
@@ -36282,9 +35842,9 @@
     "company": "富邦金融控股股份有限公司",
     "job_title": "策略發展部PM",
     "location": "台北市中山區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T01:21:57.005201",
-    "last_seen_at": "2025-10-09T04:37:47.040819",
+    "last_seen_at": "2025-10-17T01:02:54.686513",
     "job_id": "8uhl3",
     "url": "https://www.104.com.tw/job/8uhl3?jobsource=joblist_search"
   },
@@ -36691,7 +36251,7 @@
     "location": "台北市大同區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:39:20.332017",
-    "last_seen_at": "2025-10-16T07:20:43.422995",
+    "last_seen_at": "2025-10-17T01:09:59.316731",
     "job_id": "8uhhs",
     "url": "https://www.104.com.tw/job/8uhhs?jobsource=joblist_search"
   },
@@ -36702,7 +36262,7 @@
     "location": "台北市信義區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T01:36:28.686348",
-    "last_seen_at": "2025-10-16T07:22:03.726188",
+    "last_seen_at": "2025-10-17T01:10:45.283059",
     "job_id": "33z51",
     "url": "https://www.104.com.tw/job/33z51?jobsource=joblist_search"
   },
@@ -36713,7 +36273,7 @@
     "location": "新北市五股區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:39:58.658673",
-    "last_seen_at": "2025-10-16T07:21:02.317626",
+    "last_seen_at": "2025-10-17T01:10:22.460753",
     "job_id": "8uhko",
     "url": "https://www.104.com.tw/job/8uhko?jobsource=joblist_search"
   },
@@ -36724,7 +36284,7 @@
     "location": "台北市大同區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:40:06.431284",
-    "last_seen_at": "2025-10-16T07:21:20.610286",
+    "last_seen_at": "2025-10-17T01:11:27.923818",
     "job_id": "6am0z",
     "url": "https://www.104.com.tw/job/6am0z?jobsource=joblist_search"
   },
@@ -36788,9 +36348,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "【2026研發替代役暨預聘】硬體系統電源工程師_資料中心冷卻系統產品(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T04:42:12.183432",
-    "last_seen_at": "2025-10-11T07:27:23.280431",
+    "last_seen_at": "2025-10-17T01:01:33.757005",
     "job_id": "8uhlv",
     "url": "https://www.104.com.tw/job/8uhlv?jobsource=joblist_search"
   },
@@ -36856,7 +36416,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:01.743129",
-    "last_seen_at": "2025-10-16T01:10:52.440034",
+    "last_seen_at": "2025-10-17T01:09:35.965598",
     "job_id": "8ib04",
     "url": "https://www.104.com.tw/job/8ib04?jobsource=joblist_search"
   },
@@ -36955,7 +36515,7 @@
     "location": "高雄市前鎮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:04.950018",
-    "last_seen_at": "2025-10-16T07:20:38.812556",
+    "last_seen_at": "2025-10-17T01:09:15.96246",
     "job_id": "8unmx",
     "url": "https://www.104.com.tw/job/8unmx?jobsource=joblist_search"
   },
@@ -36986,9 +36546,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "統購主任專員_樓宇自動化事業群(台北內湖)",
     "location": "台北市內湖區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T04:44:06.000259",
-    "last_seen_at": "2025-10-12T07:24:47.712779",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8unmm",
     "url": "https://www.104.com.tw/job/8unmm?jobsource=joblist_search"
   },
@@ -37032,7 +36592,7 @@
     "location": "新竹縣新豐鄉",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:07.415722",
-    "last_seen_at": "2025-10-16T07:20:47.827984",
+    "last_seen_at": "2025-10-17T01:10:45.283059",
     "job_id": "8awop",
     "url": "https://www.104.com.tw/job/8awop?jobsource=joblist_search"
   },
@@ -37098,7 +36658,7 @@
     "location": "花蓮縣花蓮市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:09.538895",
-    "last_seen_at": "2025-10-16T07:20:34.400144",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "8izec",
     "url": "https://www.104.com.tw/job/8izec?jobsource=joblist_search"
   },
@@ -37195,9 +36755,9 @@
     "company": "幸福水泥股份有限公司",
     "job_title": "總經理室行政助理",
     "location": "台北市中山區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:12.583413",
-    "last_seen_at": "2025-10-12T07:25:52.681904",
+    "last_seen_at": "2025-10-17T01:09:54.674313",
     "job_id": "8unjb",
     "url": "https://www.104.com.tw/job/8unjb?jobsource=joblist_search"
   },
@@ -37327,9 +36887,9 @@
     "company": "昇達科技股份有限公司",
     "job_title": "製造二部專案經理",
     "location": "基隆市七堵區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:17.242745",
-    "last_seen_at": "2025-10-11T07:24:48.942335",
+    "last_seen_at": "2025-10-17T01:11:00.134694",
     "job_id": "8unh7",
     "url": "https://www.104.com.tw/job/8unh7?jobsource=joblist_search"
   },
@@ -37351,7 +36911,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:17.991819",
-    "last_seen_at": "2025-10-16T07:20:25.741648",
+    "last_seen_at": "2025-10-17T01:08:43.714227",
     "job_id": "8unh3",
     "url": "https://www.104.com.tw/job/8unh3?jobsource=joblist_search"
   },
@@ -37384,7 +36944,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:19.057935",
-    "last_seen_at": "2025-10-16T07:22:12.863897",
+    "last_seen_at": "2025-10-17T01:11:32.605179",
     "job_id": "5jrex",
     "url": "https://www.104.com.tw/job/5jrex?jobsource=joblist_search"
   },
@@ -37406,7 +36966,7 @@
     "location": "台北市中山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:19.726823",
-    "last_seen_at": "2025-10-16T07:20:06.59548",
+    "last_seen_at": "2025-10-17T01:08:29.850377",
     "job_id": "8unf9",
     "url": "https://www.104.com.tw/job/8unf9?jobsource=joblist_search"
   },
@@ -37417,7 +36977,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:20.051953",
-    "last_seen_at": "2025-10-16T07:21:11.375122",
+    "last_seen_at": "2025-10-17T01:10:13.048522",
     "job_id": "8unep",
     "url": "https://www.104.com.tw/job/8unep?jobsource=joblist_search"
   },
@@ -37426,9 +36986,9 @@
     "company": "群益金鼎證券股份有限公司",
     "job_title": "【企金】承銷輔導專員(SPO)",
     "location": "台北市松山區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T04:44:20.378022",
-    "last_seen_at": "2025-10-11T07:26:47.645833",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
     "job_id": "8uneh",
     "url": "https://www.104.com.tw/job/8uneh?jobsource=joblist_search"
   },
@@ -37516,7 +37076,7 @@
     "location": "新北市新店區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:23.498031",
-    "last_seen_at": "2025-10-16T07:21:59.1304",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "6re4n",
     "url": "https://www.104.com.tw/job/6re4n?jobsource=joblist_search"
   },
@@ -37571,7 +37131,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:44:25.307592",
-    "last_seen_at": "2025-10-16T07:20:06.59548",
+    "last_seen_at": "2025-10-17T01:08:43.714227",
     "job_id": "8unas",
     "url": "https://www.104.com.tw/job/8unas?jobsource=joblist_search"
   },
@@ -37580,9 +37140,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "【2026研發替代役暨預聘】機構設計資深工程師_資料中心冷卻系統產品(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T04:44:38.465041",
-    "last_seen_at": "2025-10-11T07:27:01.046913",
+    "last_seen_at": "2025-10-17T01:01:18.759666",
     "job_id": "8uhm2",
     "url": "https://www.104.com.tw/job/8uhm2?jobsource=joblist_search"
   },
@@ -37615,7 +37175,7 @@
     "location": "高雄市鼓山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:45:28.092346",
-    "last_seen_at": "2025-10-16T07:22:17.450541",
+    "last_seen_at": "2025-10-17T01:11:41.886712",
     "job_id": "8uhi8",
     "url": "https://www.104.com.tw/job/8uhi8?jobsource=joblist_search"
   },
@@ -37681,7 +37241,7 @@
     "location": "新北市板橋區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T04:52:12.174692",
-    "last_seen_at": "2025-10-16T07:22:08.272157",
+    "last_seen_at": "2025-10-17T01:11:27.923818",
     "job_id": "8jihu",
     "url": "https://www.104.com.tw/job/8jihu?jobsource=joblist_search"
   },
@@ -37723,9 +37283,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "【2026研發替代役暨預聘】機構設計資深工程師_通信基礎設施事業部(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T04:56:18.55256",
-    "last_seen_at": "2025-10-09T04:38:31.756034",
+    "last_seen_at": "2025-10-17T01:01:47.223985",
     "job_id": "8uhn9",
     "url": "https://www.104.com.tw/job/8uhn9?jobsource=joblist_search"
   },
@@ -37736,7 +37296,7 @@
     "location": "新竹縣湖口鄉",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:31:39.09141",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8uhnt",
     "url": "https://www.104.com.tw/job/8uhnt?jobsource=joblist_search"
   },
@@ -37769,7 +37329,7 @@
     "location": "高雄市大寮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:38:42.873197",
-    "last_seen_at": "2025-10-16T07:20:52.273687",
+    "last_seen_at": "2025-10-17T01:10:49.85714",
     "job_id": "8uo4m",
     "url": "https://www.104.com.tw/job/8uo4m?jobsource=joblist_search"
   },
@@ -37800,9 +37360,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "機構設計資深工程師_固態變壓器產品部(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T07:38:44.294508",
-    "last_seen_at": "2025-10-12T07:27:56.176926",
+    "last_seen_at": "2025-10-17T01:01:42.669194",
     "job_id": "86r2r",
     "url": "https://www.104.com.tw/job/86r2r?jobsource=joblist_search"
   },
@@ -37846,7 +37406,7 @@
     "location": "新北市土城區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:38:47.117722",
-    "last_seen_at": "2025-10-16T07:23:03.664521",
+    "last_seen_at": "2025-10-17T01:09:49.988185",
     "job_id": "8uo34",
     "url": "https://www.104.com.tw/job/8uo34?jobsource=joblist_search"
   },
@@ -37890,7 +37450,7 @@
     "location": "雲林縣斗六市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:38:49.453785",
-    "last_seen_at": "2025-10-16T07:23:21.946312",
+    "last_seen_at": "2025-10-17T01:11:51.129728",
     "job_id": "8omn0",
     "url": "https://www.104.com.tw/job/8omn0?jobsource=joblist_search"
   },
@@ -37899,9 +37459,9 @@
     "company": "永日化學工業股份有限公司",
     "job_title": "實驗室行政助理",
     "location": "台中市大甲區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:38:49.917227",
-    "last_seen_at": "2025-10-09T07:23:02.93571",
+    "last_seen_at": "2025-10-17T01:12:24.26676",
     "job_id": "8uo1m",
     "url": "https://www.104.com.tw/job/8uo1m?jobsource=joblist_search"
   },
@@ -37978,7 +37538,7 @@
     "location": "台北市中正區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:38:53.210776",
-    "last_seen_at": "2025-10-16T07:20:06.59548",
+    "last_seen_at": "2025-10-17T01:08:57.508135",
     "job_id": "8uo0b",
     "url": "https://www.104.com.tw/job/8uo0b?jobsource=joblist_search"
   },
@@ -38033,7 +37593,7 @@
     "location": "新北市樹林區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:38:56.017028",
-    "last_seen_at": "2025-10-16T07:21:59.1304",
+    "last_seen_at": "2025-10-17T01:11:41.886712",
     "job_id": "8b8b0",
     "url": "https://www.104.com.tw/job/8b8b0?jobsource=joblist_search"
   },
@@ -38119,9 +37679,9 @@
     "company": "銘旺科技股份有限公司",
     "job_title": "DCC文件管理師",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T07:39:00.240315",
-    "last_seen_at": "2025-10-11T07:26:34.570729",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8unwp",
     "url": "https://www.104.com.tw/job/8unwp?jobsource=joblist_search"
   },
@@ -38196,9 +37756,9 @@
     "company": "麗嬰房股份有限公司",
     "job_title": "物流行政專員（3個月短期）",
     "location": "桃園市蘆竹區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T07:39:03.998129",
-    "last_seen_at": "2025-10-09T07:23:07.341234",
+    "last_seen_at": "2025-10-17T01:01:33.757005",
     "job_id": "8unuf",
     "url": "https://www.104.com.tw/job/8unuf?jobsource=joblist_search"
   },
@@ -38242,7 +37802,7 @@
     "location": "新竹縣竹北市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:39:06.327103",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8ln6p",
     "url": "https://www.104.com.tw/job/8ln6p?jobsource=joblist_search"
   },
@@ -38253,7 +37813,7 @@
     "location": "新竹縣寶山鄉",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:39:06.785809",
-    "last_seen_at": "2025-10-16T07:20:34.400144",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
     "job_id": "8unso",
     "url": "https://www.104.com.tw/job/8unso?jobsource=joblist_search"
   },
@@ -38473,7 +38033,7 @@
     "location": "台中市大雅區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-09T07:38:59.302132",
-    "last_seen_at": "2025-10-16T07:20:30.000979",
+    "last_seen_at": "2025-10-17T01:09:15.96246",
     "job_id": "8unx1",
     "url": "https://www.104.com.tw/job/8unx1?jobsource=joblist_search"
   },
@@ -38493,9 +38053,9 @@
     "company": "博大科技股份有限公司",
     "job_title": "日班作業員",
     "location": "台中市南屯區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-10T01:13:20.123663",
-    "last_seen_at": "2025-10-12T07:22:54.610135",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
     "job_id": "8uoli",
     "url": "https://www.104.com.tw/job/8uoli?jobsource=joblist_search"
   },
@@ -38704,7 +38264,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-10T01:16:06.993198",
-    "last_seen_at": "2025-10-16T07:20:06.59548",
+    "last_seen_at": "2025-10-17T01:08:29.850377",
     "job_id": "8uoj2",
     "url": "https://www.104.com.tw/job/8uoj2?jobsource=joblist_search"
   },
@@ -38715,7 +38275,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-10T01:16:09.080077",
-    "last_seen_at": "2025-10-16T07:20:25.741648",
+    "last_seen_at": "2025-10-17T01:08:52.870738",
     "job_id": "8uolm",
     "url": "https://www.104.com.tw/job/8uolm?jobsource=joblist_search"
   },
@@ -38737,7 +38297,7 @@
     "location": "台中市潭子區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-10T01:16:43.621426",
-    "last_seen_at": "2025-10-16T07:20:11.54709",
+    "last_seen_at": "2025-10-17T01:09:02.017126",
     "job_id": "8uo7z",
     "url": "https://www.104.com.tw/job/8uo7z?jobsource=joblist_search"
   },
@@ -38757,9 +38317,9 @@
     "company": "統一超商股份有限公司",
     "job_title": "統一超商商場籌備招商專員",
     "location": "台北市信義區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-10T01:17:29.02935",
-    "last_seen_at": "2025-10-12T07:25:38.823281",
+    "last_seen_at": "2025-10-17T01:01:05.561723",
     "job_id": "8uo5g",
     "url": "https://www.104.com.tw/job/8uo5g?jobsource=joblist_search"
   },
@@ -38768,9 +38328,9 @@
     "company": "晉泰科技股份有限公司",
     "job_title": "SW05-業務助理(高雄)",
     "location": "高雄市新興區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-10T01:17:53.849997",
-    "last_seen_at": "2025-10-12T07:26:06.456264",
+    "last_seen_at": "2025-10-17T01:09:35.965598",
     "job_id": "7mje6",
     "url": "https://www.104.com.tw/job/7mje6?jobsource=joblist_search"
   },
@@ -38779,9 +38339,9 @@
     "company": "晉泰科技股份有限公司",
     "job_title": "SW05-業務助理(台中）",
     "location": "台中市西屯區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-10T01:18:01.102165",
-    "last_seen_at": "2025-10-11T07:26:21.428776",
+    "last_seen_at": "2025-10-17T01:10:22.460753",
     "job_id": "8uoko",
     "url": "https://www.104.com.tw/job/8uoko?jobsource=joblist_search"
   },
@@ -38803,7 +38363,7 @@
     "location": "新北市三重區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-10T01:19:13.058875",
-    "last_seen_at": "2025-10-16T07:22:08.272157",
+    "last_seen_at": "2025-10-17T01:11:18.589243",
     "job_id": "8uc3v",
     "url": "https://www.104.com.tw/job/8uc3v?jobsource=joblist_search"
   },
@@ -38814,7 +38374,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-10T01:19:36.524759",
-    "last_seen_at": "2025-10-16T07:20:20.877404",
+    "last_seen_at": "2025-10-17T01:08:39.091616",
     "job_id": "3ewym",
     "url": "https://www.104.com.tw/job/3ewym?jobsource=joblist_search"
   },
@@ -38834,9 +38394,9 @@
     "company": "朋程科技股份有限公司",
     "job_title": "品保實驗室經理",
     "location": "桃園市蘆竹區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-10T01:21:43.726917",
-    "last_seen_at": "2025-10-11T07:26:30.243285",
+    "last_seen_at": "2025-10-17T01:01:47.223985",
     "job_id": "8uobt",
     "url": "https://www.104.com.tw/job/8uobt?jobsource=joblist_search"
   },
@@ -38933,9 +38493,9 @@
     "company": "健身工廠_柏文健康事業股份有限公司",
     "job_title": "兼職營運專員-櫃檯接待｜健身工廠高雄南岡山廠",
     "location": "高雄市岡山區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-10T04:40:12.669245",
-    "last_seen_at": "2025-10-12T07:21:40.818318",
+    "last_seen_at": "2025-10-17T01:02:20.684599",
     "job_id": "84juf",
     "url": "https://www.104.com.tw/job/84juf?jobsource=joblist_search"
   },
@@ -38977,9 +38537,9 @@
     "company": "青鋼應用材料股份有限公司",
     "job_title": "業務助理【官田廠】",
     "location": "台南市官田區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-10T04:43:15.997493",
-    "last_seen_at": "2025-10-12T07:22:13.373506",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
     "job_id": "8k3gx",
     "url": "https://www.104.com.tw/job/8k3gx?jobsource=joblist_search"
   },
@@ -39406,9 +38966,9 @@
     "company": "寶成工業股份有限公司",
     "job_title": "PCG250030-⽣管_⽣管中階主管(孟加拉)",
     "location": "孟加拉",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-11T01:11:06.351876",
-    "last_seen_at": "2025-10-12T07:21:12.83776",
+    "last_seen_at": "2025-10-17T01:02:16.081093",
     "job_id": "8mta5",
     "url": "https://www.104.com.tw/job/8mta5?jobsource=joblist_search"
   },
@@ -39428,9 +38988,9 @@
     "company": "信昌電子陶瓷股份有限公司",
     "job_title": "生產工程師(桃園南崁廠/台南六甲廠)",
     "location": "桃園市蘆竹區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-11T01:12:20.352108",
-    "last_seen_at": "2025-10-12T07:22:27.079714",
+    "last_seen_at": "2025-10-17T01:02:44.142285",
     "job_id": "7a94p",
     "url": "https://www.104.com.tw/job/7a94p?jobsource=joblist_search"
   },
@@ -39439,9 +38999,9 @@
     "company": "富裔實業股份有限公司",
     "job_title": "[機電部]機電主任/工程師",
     "location": "台北市信義區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-11T01:12:49.300122",
-    "last_seen_at": "2025-10-12T07:21:55.132354",
+    "last_seen_at": "2025-10-17T01:02:16.081093",
     "job_id": "8p5d9",
     "url": "https://www.104.com.tw/job/8p5d9?jobsource=joblist_search"
   },
@@ -39450,9 +39010,9 @@
     "company": "仁寶電腦工業股份有限公司",
     "job_title": "D0522 品保理級主管(NB/平鎮)",
     "location": "桃園市平鎮區",
-    "posted_at": "2025-10-10T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-11T01:16:13.799937",
-    "last_seen_at": "2025-10-12T07:21:59.660746",
+    "last_seen_at": "2025-10-17T01:02:20.684599",
     "job_id": "4t19v",
     "url": "https://www.104.com.tw/job/4t19v?jobsource=joblist_search"
   },
@@ -39496,7 +39056,7 @@
     "location": "高雄市前鎮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-11T01:20:42.066489",
-    "last_seen_at": "2025-10-16T07:20:25.741648",
+    "last_seen_at": "2025-10-17T01:08:52.870738",
     "job_id": "6uvm0",
     "url": "https://www.104.com.tw/job/6uvm0?jobsource=joblist_search"
   },
@@ -39633,17 +39193,6 @@
     "url": "https://www.104.com.tw/job/7xcix?jobsource=joblist_search"
   },
   {
-    "id": 1584545,
-    "company": "台南企業股份有限公司",
-    "job_title": "行政總務｜保障13個月薪資待遇｜",
-    "location": "台北市中正區",
-    "posted_at": "2025-10-09T00:00:00",
-    "created_at": "2025-10-09T04:38:59.100466",
-    "last_seen_at": "2025-10-12T07:24:43.100069",
-    "job_id": "8pgyy",
-    "url": "https://www.104.com.tw/job/8pgyy?jobsource=joblist_search"
-  },
-  {
     "id": 1633525,
     "company": "聯發科技集團_立錡科技股份有限公司",
     "job_title": "類比IC設計主任工程師/技術副理_Vcore",
@@ -39675,6 +39224,17 @@
     "last_seen_at": "2025-10-12T07:20:17.617386",
     "job_id": "8ujcs",
     "url": "https://www.104.com.tw/job/8ujcs?jobsource=joblist_search"
+  },
+  {
+    "id": 1584545,
+    "company": "台南企業股份有限公司",
+    "job_title": "行政總務｜保障13個月薪資待遇｜",
+    "location": "台北市中正區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-09T04:38:59.100466",
+    "last_seen_at": "2025-10-17T01:00:56.185148",
+    "job_id": "8pgyy",
+    "url": "https://www.104.com.tw/job/8pgyy?jobsource=joblist_search"
   },
   {
     "id": 1633275,
@@ -39780,9 +39340,9 @@
     "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
     "job_title": "【2026研發替代役暨預聘】硬體系統資深工程師_通信基礎設施事業部(中壢)",
     "location": "桃園市中壢區",
-    "posted_at": "2025-10-09T00:00:00",
+    "posted_at": "2025-10-17T00:00:00",
     "created_at": "2025-10-09T04:41:12.379522",
-    "last_seen_at": "2025-10-12T07:27:28.570444",
+    "last_seen_at": "2025-10-17T01:01:05.561723",
     "job_id": "8uhly",
     "url": "https://www.104.com.tw/job/8uhly?jobsource=joblist_search"
   },
@@ -44193,7 +43753,7 @@
     "location": "嘉義縣大林鎮",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-15T04:45:35.204413",
-    "last_seen_at": "2025-10-16T07:23:32.36564",
+    "last_seen_at": "2025-10-17T01:11:55.822639",
     "job_id": "8ulhy",
     "url": "https://www.104.com.tw/job/8ulhy?jobsource=joblist_search"
   },
@@ -45381,7 +44941,7 @@
     "location": "台南市永康區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:13:45.271314",
-    "last_seen_at": "2025-10-16T07:20:47.827984",
+    "last_seen_at": "2025-10-17T01:09:40.620563",
     "job_id": "6w0c1",
     "url": "https://www.104.com.tw/job/6w0c1?jobsource=joblist_search"
   },
@@ -45392,7 +44952,7 @@
     "location": "新北市汐止區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:13:55.207696",
-    "last_seen_at": "2025-10-16T07:20:56.787557",
+    "last_seen_at": "2025-10-17T01:09:15.96246",
     "job_id": "4i8ik",
     "url": "https://www.104.com.tw/job/4i8ik?jobsource=joblist_search"
   },
@@ -45403,7 +44963,7 @@
     "location": "新北市汐止區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:14:13.187795",
-    "last_seen_at": "2025-10-16T07:21:16.043709",
+    "last_seen_at": "2025-10-17T01:11:27.923818",
     "job_id": "8uon2",
     "url": "https://www.104.com.tw/job/8uon2?jobsource=joblist_search"
   },
@@ -45414,7 +44974,7 @@
     "location": "台北市信義區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:14:22.955239",
-    "last_seen_at": "2025-10-16T07:21:20.610286",
+    "last_seen_at": "2025-10-17T01:10:31.586539",
     "job_id": "8umvh",
     "url": "https://www.104.com.tw/job/8umvh?jobsource=joblist_search"
   },
@@ -45425,7 +44985,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:14:53.330214",
-    "last_seen_at": "2025-10-16T07:21:50.037989",
+    "last_seen_at": "2025-10-17T01:12:15.047411",
     "job_id": "7qzm3",
     "url": "https://www.104.com.tw/job/7qzm3?jobsource=joblist_search"
   },
@@ -45458,7 +45018,7 @@
     "location": "桃園市桃園區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:16:50.674147",
-    "last_seen_at": "2025-10-16T07:23:50.502194",
+    "last_seen_at": "2025-10-17T01:12:01.105267",
     "job_id": "8umvr",
     "url": "https://www.104.com.tw/job/8umvr?jobsource=joblist_search"
   },
@@ -45469,7 +45029,7 @@
     "location": "桃園市桃園區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:17:15.626605",
-    "last_seen_at": "2025-10-16T07:24:53.084259",
+    "last_seen_at": "2025-10-17T01:08:43.714227",
     "job_id": "8uuin",
     "url": "https://www.104.com.tw/job/8uuin?jobsource=joblist_search"
   },
@@ -45480,7 +45040,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:17:16.618658",
-    "last_seen_at": "2025-10-16T07:24:53.084259",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
     "job_id": "8uui8",
     "url": "https://www.104.com.tw/job/8uui8?jobsource=joblist_search"
   },
@@ -45513,7 +45073,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T01:17:19.355684",
-    "last_seen_at": "2025-10-16T07:24:53.084259",
+    "last_seen_at": "2025-10-17T01:11:04.901217",
     "job_id": "8uuhi",
     "url": "https://www.104.com.tw/job/8uuhi?jobsource=joblist_search"
   },
@@ -45588,11 +45148,11 @@
     "company": "凌網科技股份有限公司",
     "job_title": "(約聘)會計助理-新竹",
     "location": "新竹縣竹北市",
-    "posted_at": "2025-10-16T00:00:00",
+    "posted_at": "2025-10-17T01:13:00.713891",
     "created_at": "2025-10-16T01:23:32.420796",
-    "last_seen_at": "2025-10-16T07:31:00.773155",
+    "last_seen_at": "2025-10-17T01:01:05.561723",
     "job_id": "6bqvu",
-    "url": "https://www.104.com.tw/job/6bqvu?jobsource=joblist_search"
+    "url": "https://www.104.com.tw/job/6bqvu?jobsource=hotjob_chr_exp"
   },
   {
     "id": 1708149,
@@ -45810,7 +45370,7 @@
     "location": "台北市中山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:51.056832",
-    "last_seen_at": "2025-10-16T07:24:38.657546",
+    "last_seen_at": "2025-10-17T01:09:15.96246",
     "job_id": "7cvao",
     "url": "https://www.104.com.tw/job/7cvao?jobsource=joblist_search"
   },
@@ -46525,7 +46085,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:39:00.582361",
-    "last_seen_at": "2025-10-16T07:20:01.397257",
+    "last_seen_at": "2025-10-17T01:08:25.31894",
     "job_id": "8ufzo",
     "url": "https://www.104.com.tw/job/8ufzo?jobsource=joblist_search"
   },
@@ -46536,7 +46096,7 @@
     "location": "高雄市前鎮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:39:40.795979",
-    "last_seen_at": "2025-10-16T07:20:25.741648",
+    "last_seen_at": "2025-10-17T01:09:40.620563",
     "job_id": "8um51",
     "url": "https://www.104.com.tw/job/8um51?jobsource=joblist_search"
   },
@@ -46547,7 +46107,7 @@
     "location": "台北市南港區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:40:38.770084",
-    "last_seen_at": "2025-10-16T07:20:56.787557",
+    "last_seen_at": "2025-10-17T01:09:54.674313",
     "job_id": "8ttvv",
     "url": "https://www.104.com.tw/job/8ttvv?jobsource=joblist_search"
   },
@@ -46558,7 +46118,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:42:03.285821",
-    "last_seen_at": "2025-10-16T07:21:54.63574",
+    "last_seen_at": "2025-10-17T01:10:45.283059",
     "job_id": "8uexz",
     "url": "https://www.104.com.tw/job/8uexz?jobsource=joblist_search"
   },
@@ -46569,7 +46129,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:42:11.235376",
-    "last_seen_at": "2025-10-16T07:21:59.1304",
+    "last_seen_at": "2025-10-17T01:12:28.903057",
     "job_id": "8tlpl",
     "url": "https://www.104.com.tw/job/8tlpl?jobsource=joblist_search"
   },
@@ -46580,7 +46140,7 @@
     "location": "台北市南港區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:42:18.756773",
-    "last_seen_at": "2025-10-16T07:22:03.726188",
+    "last_seen_at": "2025-10-17T01:11:55.822639",
     "job_id": "8u6si",
     "url": "https://www.104.com.tw/job/8u6si?jobsource=joblist_search"
   },
@@ -46602,7 +46162,7 @@
     "location": "苗栗縣竹南鎮",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:43:08.83918",
-    "last_seen_at": "2025-10-16T07:22:36.043121",
+    "last_seen_at": "2025-10-17T01:11:37.245113",
     "job_id": "8uhp9",
     "url": "https://www.104.com.tw/job/8uhp9?jobsource=joblist_search"
   },
@@ -46624,7 +46184,7 @@
     "location": "台北市北投區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:42.213721",
-    "last_seen_at": "2025-10-16T07:24:33.188713",
+    "last_seen_at": "2025-10-17T01:11:32.605179",
     "job_id": "8uv23",
     "url": "https://www.104.com.tw/job/8uv23?jobsource=joblist_search"
   },
@@ -46646,7 +46206,7 @@
     "location": "新北市新店區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:43.383298",
-    "last_seen_at": "2025-10-16T07:24:33.188713",
+    "last_seen_at": "2025-10-17T01:09:31.325551",
     "job_id": "8uv1p",
     "url": "https://www.104.com.tw/job/8uv1p?jobsource=joblist_search"
   },
@@ -46679,7 +46239,7 @@
     "location": "新北市新莊區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:45.375307",
-    "last_seen_at": "2025-10-16T07:24:33.188713",
+    "last_seen_at": "2025-10-17T01:09:15.96246",
     "job_id": "8uv0x",
     "url": "https://www.104.com.tw/job/8uv0x?jobsource=joblist_search"
   },
@@ -46701,7 +46261,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:46.151308",
-    "last_seen_at": "2025-10-16T07:24:38.657546",
+    "last_seen_at": "2025-10-17T01:10:55.20992",
     "job_id": "8uv0r",
     "url": "https://www.104.com.tw/job/8uv0r?jobsource=joblist_search"
   },
@@ -46745,7 +46305,7 @@
     "location": "新北市新店區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:47.856627",
-    "last_seen_at": "2025-10-16T07:24:38.657546",
+    "last_seen_at": "2025-10-17T01:09:02.017126",
     "job_id": "8uuze",
     "url": "https://www.104.com.tw/job/8uuze?jobsource=joblist_search"
   },
@@ -46756,7 +46316,7 @@
     "location": "新竹縣竹北市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:48.255313",
-    "last_seen_at": "2025-10-16T07:24:38.657546",
+    "last_seen_at": "2025-10-17T01:08:25.31894",
     "job_id": "8uuz8",
     "url": "https://www.104.com.tw/job/8uuz8?jobsource=joblist_search"
   },
@@ -46789,7 +46349,7 @@
     "location": "台南市永康區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:50.255116",
-    "last_seen_at": "2025-10-16T07:24:38.657546",
+    "last_seen_at": "2025-10-17T01:09:11.219933",
     "job_id": "7gwgh",
     "url": "https://www.104.com.tw/job/7gwgh?jobsource=joblist_search"
   },
@@ -46921,7 +46481,7 @@
     "location": "高雄市苓雅區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:57.966071",
-    "last_seen_at": "2025-10-16T07:24:43.082157",
+    "last_seen_at": "2025-10-17T01:08:43.714227",
     "job_id": "73b2c",
     "url": "https://www.104.com.tw/job/73b2c?jobsource=joblist_search"
   },
@@ -46943,7 +46503,7 @@
     "location": "泰國",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:45:58.743602",
-    "last_seen_at": "2025-10-16T07:24:43.082157",
+    "last_seen_at": "2025-10-17T01:08:25.31894",
     "job_id": "8uuru",
     "url": "https://www.104.com.tw/job/8uuru?jobsource=joblist_search"
   },
@@ -46998,7 +46558,7 @@
     "location": "德國",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:01.12663",
-    "last_seen_at": "2025-10-16T07:24:43.082157",
+    "last_seen_at": "2025-10-17T01:10:17.627457",
     "job_id": "8uuph",
     "url": "https://www.104.com.tw/job/8uuph?jobsource=joblist_search"
   },
@@ -47031,7 +46591,7 @@
     "location": "新竹市",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:02.303947",
-    "last_seen_at": "2025-10-16T07:24:43.082157",
+    "last_seen_at": "2025-10-17T01:08:29.850377",
     "job_id": "4wmp8",
     "url": "https://www.104.com.tw/job/4wmp8?jobsource=joblist_search"
   },
@@ -47042,7 +46602,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:02.69319",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:08:48.367021",
     "job_id": "8uuos",
     "url": "https://www.104.com.tw/job/8uuos?jobsource=joblist_search"
   },
@@ -47064,7 +46624,7 @@
     "location": "彰化縣福興鄉",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:03.478112",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
     "job_id": "8uuny",
     "url": "https://www.104.com.tw/job/8uuny?jobsource=joblist_search"
   },
@@ -47075,7 +46635,7 @@
     "location": "新北市新店區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:04.269556",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:08:43.714227",
     "job_id": "8uum0",
     "url": "https://www.104.com.tw/job/8uum0?jobsource=joblist_search"
   },
@@ -47108,7 +46668,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:05.438966",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:08:43.714227",
     "job_id": "8uulu",
     "url": "https://www.104.com.tw/job/8uulu?jobsource=joblist_search"
   },
@@ -47152,7 +46712,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:06.990773",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:08:39.091616",
     "job_id": "8uukl",
     "url": "https://www.104.com.tw/job/8uukl?jobsource=joblist_search"
   },
@@ -47163,7 +46723,7 @@
     "location": "台北市內湖區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:07.388409",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:11:46.492924",
     "job_id": "7tcox",
     "url": "https://www.104.com.tw/job/7tcox?jobsource=joblist_search"
   },
@@ -47218,7 +46778,7 @@
     "location": "台北市松山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:09.445211",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:10:55.20992",
     "job_id": "82uys",
     "url": "https://www.104.com.tw/job/82uys?jobsource=joblist_search"
   },
@@ -47229,7 +46789,7 @@
     "location": "桃園市平鎮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:46:09.844052",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
     "job_id": "8uuiy",
     "url": "https://www.104.com.tw/job/8uuiy?jobsource=joblist_search"
   },
@@ -47339,7 +46899,7 @@
     "location": "新北市新店區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T04:53:05.681989",
-    "last_seen_at": "2025-10-16T07:29:35.865745",
+    "last_seen_at": "2025-10-17T01:12:10.417196",
     "job_id": "8tqtt",
     "url": "https://www.104.com.tw/job/8tqtt?jobsource=joblist_search"
   },
@@ -47449,7 +47009,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:35:17.419809",
-    "last_seen_at": "2025-10-16T07:21:35.838193",
+    "last_seen_at": "2025-10-17T01:12:15.047411",
     "job_id": "3mer9",
     "url": "https://www.104.com.tw/job/3mer9?jobsource=joblist_search"
   },
@@ -47460,7 +47020,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:37:29.467782",
-    "last_seen_at": "2025-10-16T07:22:36.043121",
+    "last_seen_at": "2025-10-17T01:11:27.923818",
     "job_id": "8bcr0",
     "url": "https://www.104.com.tw/job/8bcr0?jobsource=joblist_search"
   },
@@ -47471,7 +47031,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:38:26.733704",
-    "last_seen_at": "2025-10-16T07:23:03.664521",
+    "last_seen_at": "2025-10-17T01:11:46.492924",
     "job_id": "8j64i",
     "url": "https://www.104.com.tw/job/8j64i?jobsource=joblist_search"
   },
@@ -47493,7 +47053,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:39:24.171811",
-    "last_seen_at": "2025-10-16T07:23:32.36564",
+    "last_seen_at": "2025-10-17T01:12:24.26676",
     "job_id": "85cxe",
     "url": "https://www.104.com.tw/job/85cxe?jobsource=joblist_search"
   },
@@ -47537,7 +47097,7 @@
     "location": "桃園市中壢區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:13.87409",
-    "last_seen_at": "2025-10-16T07:24:24.1216",
+    "last_seen_at": "2025-10-17T01:10:31.586539",
     "job_id": "2k0tc",
     "url": "https://www.104.com.tw/job/2k0tc?jobsource=joblist_search"
   },
@@ -47548,7 +47108,7 @@
     "location": "基隆市七堵區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:14.371541",
-    "last_seen_at": "2025-10-16T07:24:24.1216",
+    "last_seen_at": "2025-10-17T01:10:03.901719",
     "job_id": "8uvc7",
     "url": "https://www.104.com.tw/job/8uvc7?jobsource=joblist_search"
   },
@@ -47570,7 +47130,7 @@
     "location": "新北市板橋區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:15.379947",
-    "last_seen_at": "2025-10-16T07:24:24.1216",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
     "job_id": "8uvbt",
     "url": "https://www.104.com.tw/job/8uvbt?jobsource=joblist_search"
   },
@@ -47581,7 +47141,7 @@
     "location": "台中市大肚區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:16.391575",
-    "last_seen_at": "2025-10-16T07:24:24.1216",
+    "last_seen_at": "2025-10-17T01:11:00.134694",
     "job_id": "890od",
     "url": "https://www.104.com.tw/job/890od?jobsource=joblist_search"
   },
@@ -47603,7 +47163,7 @@
     "location": "桃園市平鎮區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:17.907585",
-    "last_seen_at": "2025-10-16T07:24:24.1216",
+    "last_seen_at": "2025-10-17T01:11:00.134694",
     "job_id": "8uvas",
     "url": "https://www.104.com.tw/job/8uvas?jobsource=joblist_search"
   },
@@ -47658,7 +47218,7 @@
     "location": "台北市南港區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:20.437502",
-    "last_seen_at": "2025-10-16T07:24:24.1216",
+    "last_seen_at": "2025-10-17T01:10:22.460753",
     "job_id": "8uv9w",
     "url": "https://www.104.com.tw/job/8uv9w?jobsource=joblist_search"
   },
@@ -47669,7 +47229,7 @@
     "location": "桃園市大溪區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:20.945522",
-    "last_seen_at": "2025-10-16T07:24:24.1216",
+    "last_seen_at": "2025-10-17T01:08:48.367021",
     "job_id": "8uv9t",
     "url": "https://www.104.com.tw/job/8uv9t?jobsource=joblist_search"
   },
@@ -47724,7 +47284,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:23.526967",
-    "last_seen_at": "2025-10-16T07:24:28.729847",
+    "last_seen_at": "2025-10-17T01:09:45.277895",
     "job_id": "8uv8b",
     "url": "https://www.104.com.tw/job/8uv8b?jobsource=joblist_search"
   },
@@ -47878,7 +47438,7 @@
     "location": "桃園市龜山區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:41:31.878187",
-    "last_seen_at": "2025-10-16T07:24:28.729847",
+    "last_seen_at": "2025-10-17T01:08:57.508135",
     "job_id": "8uv56",
     "url": "https://www.104.com.tw/job/8uv56?jobsource=joblist_search"
   },
@@ -48010,7 +47570,7 @@
     "location": "越南",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:42:04.319567",
-    "last_seen_at": "2025-10-16T07:24:47.498207",
+    "last_seen_at": "2025-10-17T01:11:32.605179",
     "job_id": "8uunv",
     "url": "https://www.104.com.tw/job/8uunv?jobsource=joblist_search"
   },
@@ -48054,7 +47614,7 @@
     "location": "新北市中和區",
     "posted_at": "2025-10-16T00:00:00",
     "created_at": "2025-10-16T07:48:56.412692",
-    "last_seen_at": "2025-10-16T07:28:02.944772",
+    "last_seen_at": "2025-10-17T01:11:41.886712",
     "job_id": "2kp5l",
     "url": "https://www.104.com.tw/job/2kp5l?jobsource=joblist_search"
   },
@@ -48079,5 +47639,456 @@
     "last_seen_at": "2025-10-16T07:30:47.032073",
     "job_id": "8ulpb",
     "url": "https://www.104.com.tw/job/8ulpb?jobsource=joblist_search"
+  },
+  {
+    "id": 1723095,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "機構設計工程師_資料中心冷卻系統產品(中壢)",
+    "location": "桃園市中壢區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:01.698868",
+    "last_seen_at": "2025-10-17T01:01:05.561723",
+    "job_id": "8u74p",
+    "url": "https://www.104.com.tw/job/8u74p?jobsource=joblist_search"
+  },
+  {
+    "id": 1723157,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "【2026研發替代役暨預聘】測試資深工程師_台灣區製造本部(南科)",
+    "location": "台南市善化區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:15.468622",
+    "last_seen_at": "2025-10-17T01:01:09.952676",
+    "job_id": "8ulod",
+    "url": "https://www.104.com.tw/job/8ulod?jobsource=joblist_search"
+  },
+  {
+    "id": 1723237,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "CAE資深工程師_熱管理解決方案部(桃二)",
+    "location": "桃園市龜山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:33.157031",
+    "last_seen_at": "2025-10-17T01:01:18.759666",
+    "job_id": "8ullf",
+    "url": "https://www.104.com.tw/job/8ullf?jobsource=joblist_search"
+  },
+  {
+    "id": 1723261,
+    "company": "群益金鼎證券股份有限公司",
+    "job_title": "【資訊部】實習生/工讀生",
+    "location": "台北市松山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:38.512319",
+    "last_seen_at": "2025-10-17T01:01:24.845228",
+    "job_id": "8i1gz",
+    "url": "https://www.104.com.tw/job/8i1gz?jobsource=joblist_search"
+  },
+  {
+    "id": 1723301,
+    "company": "友達光電股份有限公司",
+    "job_title": "【生產製造】Agentic AI開發工程師-台中廠-R10",
+    "location": "台中市西屯區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:47.521238",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "8uw37",
+    "url": "https://www.104.com.tw/job/8uw37?jobsource=joblist_search"
+  },
+  {
+    "id": 1723303,
+    "company": "中華工程股份有限公司",
+    "job_title": "【桃園市大園區】繪圖工程師-航空城",
+    "location": "桃園市大園區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:47.981977",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "7fho3",
+    "url": "https://www.104.com.tw/job/7fho3?jobsource=joblist_search"
+  },
+  {
+    "id": 1723305,
+    "company": "緯創資通股份有限公司",
+    "job_title": "【竹夢緯創學期實習專區】IT助理工程師_竹北_00000",
+    "location": "新竹縣竹北市",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:48.412423",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "8uw2w",
+    "url": "https://www.104.com.tw/job/8uw2w?jobsource=joblist_search"
+  },
+  {
+    "id": 1723307,
+    "company": "統一企業股份有限公司",
+    "job_title": "統一企業-品管工程師/湖口品管課",
+    "location": "新竹縣湖口鄉",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:48.851517",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "8uw2g",
+    "url": "https://www.104.com.tw/job/8uw2g?jobsource=joblist_search"
+  },
+  {
+    "id": 1723309,
+    "company": "統一企業股份有限公司",
+    "job_title": "統一企業-操作員/湖口食品廠",
+    "location": "新竹縣湖口鄉",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:49.278781",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "5lqqm",
+    "url": "https://www.104.com.tw/job/5lqqm?jobsource=joblist_search"
+  },
+  {
+    "id": 1723311,
+    "company": "佳世達科技股份有限公司",
+    "job_title": "業務專員【資訊科技事業群】（桃園）",
+    "location": "桃園市龜山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:49.728829",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "68n7o",
+    "url": "https://www.104.com.tw/job/68n7o?jobsource=joblist_search"
+  },
+  {
+    "id": 1723313,
+    "company": "佳世達科技股份有限公司",
+    "job_title": "資訊工程師【資訊技術服務處】(桃園)",
+    "location": "桃園市龜山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:13:50.173683",
+    "last_seen_at": "2025-10-17T01:01:29.196816",
+    "job_id": "74zk4",
+    "url": "https://www.104.com.tw/job/74zk4?jobsource=joblist_search"
+  },
+  {
+    "id": 1723421,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "【2026產學實習】TE助理工程師_台灣區製造本部",
+    "location": "桃園市中壢區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:14:14.306212",
+    "last_seen_at": "2025-10-17T01:01:42.669194",
+    "job_id": "8t9jr",
+    "url": "https://www.104.com.tw/job/8t9jr?jobsource=joblist_search"
+  },
+  {
+    "id": 1723423,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "電子設計資深工程師_電動車逆變器事業部(平鎮)",
+    "location": "桃園市平鎮區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:14:14.751357",
+    "last_seen_at": "2025-10-17T01:01:42.669194",
+    "job_id": "6t42p",
+    "url": "https://www.104.com.tw/job/6t42p?jobsource=joblist_search"
+  },
+  {
+    "id": 1723433,
+    "company": "全家便利商店股份有限公司",
+    "job_title": "行政約雇人員(開發推進部)",
+    "location": "台北市中山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:14:17.026101",
+    "last_seen_at": "2025-10-17T01:01:42.669194",
+    "job_id": "8umxh",
+    "url": "https://www.104.com.tw/job/8umxh?jobsource=joblist_search"
+  },
+  {
+    "id": 1723461,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "【2026產學實習】品保助理工程師_台灣區製造本部",
+    "location": "桃園市中壢區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:14:23.192524",
+    "last_seen_at": "2025-10-17T01:01:47.223985",
+    "job_id": "8t9pc",
+    "url": "https://www.104.com.tw/job/8t9pc?jobsource=joblist_search"
+  },
+  {
+    "id": 1723519,
+    "company": "全家便利商店股份有限公司",
+    "job_title": "開發企劃專員(商圈發展Team)",
+    "location": "台北市中山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:14:35.873526",
+    "last_seen_at": "2025-10-17T01:01:51.706572",
+    "job_id": "8umx8",
+    "url": "https://www.104.com.tw/job/8umx8?jobsource=joblist_search"
+  },
+  {
+    "id": 1724031,
+    "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
+    "job_title": "電子設計主任工程師_系統風扇產品部(桃二)",
+    "location": "桃園市龜山區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:16:29.109139",
+    "last_seen_at": "2025-10-17T01:02:54.686513",
+    "job_id": "8txee",
+    "url": "https://www.104.com.tw/job/8txee?jobsource=joblist_search"
+  },
+  {
+    "id": 1724199,
+    "company": "全家便利商店股份有限公司",
+    "job_title": "華語教師(台中班)",
+    "location": "台中市大里區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:17:06.360354",
+    "last_seen_at": "2025-10-17T01:03:15.212353",
+    "job_id": "8rthy",
+    "url": "https://www.104.com.tw/job/8rthy?jobsource=joblist_search"
+  },
+  {
+    "id": 1725051,
+    "company": "全家便利商店股份有限公司",
+    "job_title": "華語教師(新竹班)",
+    "location": "新竹縣新豐鄉",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:20:13.462769",
+    "last_seen_at": "2025-10-17T01:04:51.577094",
+    "job_id": "8u6u4",
+    "url": "https://www.104.com.tw/job/8u6u4?jobsource=joblist_search"
+  },
+  {
+    "id": 1725705,
+    "company": "宏遠證券股份有限公司",
+    "job_title": "複委託結算人員(台中-國家商貿中心)",
+    "location": "台中市西屯區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:22:35.797193",
+    "last_seen_at": "2025-10-17T01:06:11.464511",
+    "job_id": "7iesu",
+    "url": "https://www.104.com.tw/job/7iesu?jobsource=joblist_search"
+  },
+  {
+    "id": 1726645,
+    "company": "全家便利商店股份有限公司",
+    "job_title": "直營店儲備店長/支援儲備店長(台中市太平區)",
+    "location": "台中市太平區",
+    "posted_at": "2025-10-17T00:00:00",
+    "created_at": "2025-10-17T01:25:59.624779",
+    "last_seen_at": "2025-10-17T01:07:57.473522",
+    "job_id": "8u4zl",
+    "url": "https://www.104.com.tw/job/8u4zl?jobsource=joblist_search"
+  },
+  {
+    "id": 1726893,
+    "company": "建漢科技股份有限公司",
+    "job_title": "零件文件管理師(歡迎新鮮人投遞)",
+    "location": "新竹市",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:26:53.1832",
+    "last_seen_at": "2025-10-17T01:08:25.31894",
+    "job_id": "80x63",
+    "url": "https://www.104.com.tw/job/80x63?jobsource=joblist_search"
+  },
+  {
+    "id": 1726913,
+    "company": "大聯大控股股份有限公司",
+    "job_title": "人力資源助理(約聘人員)",
+    "location": "台北市南港區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:26:57.522097",
+    "last_seen_at": "2025-10-17T01:08:29.850377",
+    "job_id": "8azq8",
+    "url": "https://www.104.com.tw/job/8azq8?jobsource=joblist_search"
+  },
+  {
+    "id": 1726923,
+    "company": "104測試_VIP公司(請勿應徵)",
+    "job_title": "測試職務請勿應徵 +C_HC1 研發部門",
+    "location": "馬拉威",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:26:59.674353",
+    "last_seen_at": "2025-10-17T01:08:29.850377",
+    "job_id": "8s0bg",
+    "url": "https://www.104.com.tw/job/8s0bg?jobsource=joblist_search"
+  },
+  {
+    "id": 1726941,
+    "company": "東生華製藥股份有限公司",
+    "job_title": "法務專員",
+    "location": "台北市南港區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:27:03.62386",
+    "last_seen_at": "2025-10-17T01:08:34.461072",
+    "job_id": "8uvma",
+    "url": "https://www.104.com.tw/job/8uvma?jobsource=joblist_search"
+  },
+  {
+    "id": 1726997,
+    "company": "美時化學製藥股份有限公司",
+    "job_title": "連鎖通路專員/經理 (北區)Chin Channel Specialist/Manager",
+    "location": "台北市信義區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:27:15.806652",
+    "last_seen_at": "2025-10-17T01:08:39.091616",
+    "job_id": "805uc",
+    "url": "https://www.104.com.tw/job/805uc?jobsource=joblist_search"
+  },
+  {
+    "id": 1727261,
+    "company": "捷安特_巨大機械工業股份有限公司",
+    "job_title": "捷安特-門市計時人員-(家樂福淡新店)",
+    "location": "新北市淡水區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:28:13.360494",
+    "last_seen_at": "2025-10-17T01:09:11.219933",
+    "job_id": "8uvo4",
+    "url": "https://www.104.com.tw/job/8uvo4?jobsource=joblist_search"
+  },
+  {
+    "id": 1727377,
+    "company": "華碩電腦股份有限公司",
+    "job_title": "AD11432 行政管理師(NUC)",
+    "location": "台北市北投區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:28:38.531988",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
+    "job_id": "87rne",
+    "url": "https://www.104.com.tw/job/87rne?jobsource=joblist_search"
+  },
+  {
+    "id": 1727439,
+    "company": "晉泰科技股份有限公司",
+    "job_title": "KT02-人力資源管理師(Senior HR Specialist)",
+    "location": "新竹市",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:28:51.918479",
+    "last_seen_at": "2025-10-17T01:09:31.325551",
+    "job_id": "8gbbt",
+    "url": "https://www.104.com.tw/job/8gbbt?jobsource=joblist_search"
+  },
+  {
+    "id": 1727369,
+    "company": "昇達科技股份有限公司",
+    "job_title": "品保幹部/工程師_派駐越南-北越永福省",
+    "location": "越南",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:28:36.80096",
+    "last_seen_at": "2025-10-17T01:09:26.684799",
+    "job_id": "8uvrx",
+    "url": "https://www.104.com.tw/job/8uvrx?jobsource=joblist_search"
+  },
+  {
+    "id": 1728207,
+    "company": "日揚科技股份有限公司",
+    "job_title": "（台南）S132-Dry 維修南課-維修助理／副工程師／工程師",
+    "location": "台南市新市區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:31:39.926018",
+    "last_seen_at": "2025-10-17T01:11:00.134694",
+    "job_id": "77th8",
+    "url": "https://www.104.com.tw/job/77th8?jobsource=joblist_search"
+  },
+  {
+    "id": 1727551,
+    "company": "味全食品工業股份有限公司",
+    "job_title": "【總公司】產品行銷企劃(飲料)_副理",
+    "location": "台北市中山區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:29:16.618997",
+    "last_seen_at": "2025-10-17T01:09:45.277895",
+    "job_id": "8uvs8",
+    "url": "https://www.104.com.tw/job/8uvs8?jobsource=joblist_search"
+  },
+  {
+    "id": 1727719,
+    "company": "鉅橡企業股份有限公司",
+    "job_title": "採購人員",
+    "location": "台南市佳里區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:29:53.495685",
+    "last_seen_at": "2025-10-17T01:10:03.901719",
+    "job_id": "8lwb8",
+    "url": "https://www.104.com.tw/job/8lwb8?jobsource=joblist_search"
+  },
+  {
+    "id": 1727755,
+    "company": "智邦科技股份有限公司",
+    "job_title": "Optical Engineer(光學工程師)-Senior",
+    "location": "新竹市",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:30:01.430818",
+    "last_seen_at": "2025-10-17T01:10:08.49786",
+    "job_id": "8uvn2",
+    "url": "https://www.104.com.tw/job/8uvn2?jobsource=joblist_search"
+  },
+  {
+    "id": 1727767,
+    "company": "華宏新技股份有限公司",
+    "job_title": "新產品(市場)開發人員/工作地點:高雄或官田",
+    "location": "高雄市前金區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:30:04.178676",
+    "last_seen_at": "2025-10-17T01:10:08.49786",
+    "job_id": "8uodn",
+    "url": "https://www.104.com.tw/job/8uodn?jobsource=joblist_search"
+  },
+  {
+    "id": 1727907,
+    "company": "聚和國際股份有限公司",
+    "job_title": "【精化】生產排程專員",
+    "location": "高雄市大寮區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:30:34.595847",
+    "last_seen_at": "2025-10-17T01:10:26.996376",
+    "job_id": "7fs2m",
+    "url": "https://www.104.com.tw/job/7fs2m?jobsource=joblist_search"
+  },
+  {
+    "id": 1728039,
+    "company": "緯創資通股份有限公司",
+    "job_title": "【竹夢緯創學期實習專區】FAE助理工程師_竹北_00000",
+    "location": "新竹縣竹北市",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:31:03.287613",
+    "last_seen_at": "2025-10-17T01:10:40.727159",
+    "job_id": "8uvie",
+    "url": "https://www.104.com.tw/job/8uvie?jobsource=joblist_search"
+  },
+  {
+    "id": 1728225,
+    "company": "艾笛森光電股份有限公司",
+    "job_title": "主管秘書",
+    "location": "新北市中和區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:31:43.751821",
+    "last_seen_at": "2025-10-17T01:11:04.901217",
+    "job_id": "7kmdx",
+    "url": "https://www.104.com.tw/job/7kmdx?jobsource=joblist_search"
+  },
+  {
+    "id": 1728287,
+    "company": "儒鴻企業股份有限公司",
+    "job_title": "裁剪燙標人員",
+    "location": "新北市新莊區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:31:57.280694",
+    "last_seen_at": "2025-10-17T01:11:09.383048",
+    "job_id": "5bdd6",
+    "url": "https://www.104.com.tw/job/5bdd6?jobsource=joblist_search"
+  },
+  {
+    "id": 1728293,
+    "company": "友達光電股份有限公司",
+    "job_title": "【人力資源】招募管理師-新竹廠-R18",
+    "location": "新竹市",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:31:58.565438",
+    "last_seen_at": "2025-10-17T01:11:09.383048",
+    "job_id": "8dzd1",
+    "url": "https://www.104.com.tw/job/8dzd1?jobsource=joblist_search"
+  },
+  {
+    "id": 1728753,
+    "company": "聚和國際股份有限公司",
+    "job_title": "【精化】原料管理專員",
+    "location": "高雄市大寮區",
+    "posted_at": "2025-10-16T00:00:00",
+    "created_at": "2025-10-17T01:33:39.288282",
+    "last_seen_at": "2025-10-17T01:12:05.765269",
+    "job_id": "7fs3z",
+    "url": "https://www.104.com.tw/job/7fs3z?jobsource=joblist_search"
   }
 ]
