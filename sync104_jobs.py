@@ -25,7 +25,12 @@ def main():
     #     print("已同步過，跳過")
     #     return
 
-    jobs = crawl_jobs()
+    # jobs = crawl_jobs()
+    try:
+        jobs = crawl_jobs()
+    except Exception as e:
+        print(f"❌ crawl_jobs 失敗: {e}")
+        jobs = []
     if jobs:
         try:
             upsert_jobs(jobs)

@@ -63,7 +63,7 @@ def upsert_jobs(jobs):
             job_data["posted_at"] = datetime.now().isoformat()
 
         try:
-            res = supabase.table(TABLE).upsert(job_data, on_conflict="job_id").execute()
+            # res = supabase.table(TABLE).upsert(job_data, on_conflict="job_id").execute()
 
             # github
             # if res.status_code in (200, 201):
