@@ -3,6 +3,7 @@ from supabase_client import upsert_jobs, export_json
 import json
 import os
 from datetime import datetime
+import sys
 
 SYNC_FILE = "last_sync.json"
 
@@ -41,6 +42,7 @@ def main():
             print(f"同步失敗: {e}")
     else:
         print("未抓到職缺")
+        sys.exit(0)
 
 
 if __name__ == "__main__":
