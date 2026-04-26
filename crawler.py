@@ -9,6 +9,7 @@ from datetime import datetime
 
 def crawl_jobs(zone="16", indcat="1,2", max_pages=150):
     options = Options()
+    options.page_load_strategy = "eager"
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument("--window-size=1920,1080")
